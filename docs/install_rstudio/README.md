@@ -43,3 +43,4 @@ RStudio is:
 - On that page, click 'Download RStudio'
 - Download the (Open Source) RStudio version
   that is suitable for your operating system
+- Run the RStudio installer. Use all defaults.
