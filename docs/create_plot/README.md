@@ -1,4 +1,4 @@
-# Create a plot
+# Basic workflow overview
 
 !!!- info "Learning outcomes"
 
