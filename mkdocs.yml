@@ -49,3 +49,12 @@ theme:
     - content.tabs.link
     - content.action.edit
     - content.action.view
+
+markdown_extensions:
+  - admonition
+  - tables
+
+plugins:
+  - mermaid2:
+      arguments:
+        theme: redux-color
