@@ -1,0 +1,81 @@
+site_name: Intro to R
+repo_url: https://github.com/richelbilderbeek/create_plot_using_ggplot2_course
+edit_uri: blob/main/docs/
+
+nav:
+  - Start: README.md
+  - Learning outcomes: learning_outcomes.md
+  - Prerequisites: prerequisites.md
+  - Course dates: course_dates.md
+  - Schedule: schedule.md
+  - Sessions:
+    - Introduction 1: introduction_1/README.md
+    - Plotting: plotting/README.md
+    - Basic R: basic_r/README.md
+    - Data import: data_import/README.md
+    - Summary 1: summary_1.md
+    - Create a plot: create_plot/README.md
+    - Data transformation: data_transformation/README.md
+    - Data tidying: data_tidying/README.md
+  - Misc:
+    - Books: books/README.md
+    - Evaluation: evaluation.md
+    - Evaluations: evaluations/README.md
+    - Frequently asked questions: faq.md
+    - Lesson plans: lesson_plans/README.md
+    - Meeting notes: meeting_notes/README.md
+    - Reflections: reflections/README.md
+  - Contact us: contact_us.md
+
+theme:
+  name: material
+  greetings: Welcome to the 'Intro to R' course
+  font:
+    text: Lato
+    code: JetBrains Mono
+  logo: logo/r_written.svg
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - content.action.view
+
+markdown_extensions:
+  - toc:
+      toc_depth: 3
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+  - admonition
+  - tables
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
