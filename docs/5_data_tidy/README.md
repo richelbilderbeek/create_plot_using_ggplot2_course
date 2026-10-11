@@ -22,8 +22,6 @@
     - .
 
 
-
-
 ## Why tidy data is important
 
 ![The dplyr logo](../logo/dplyr_logo_50.png)
