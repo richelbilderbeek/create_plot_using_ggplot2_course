@@ -14,6 +14,9 @@ nav:
     - basic_workflow_overview/README.md
     - 1_data_visualization/README.md
     - 2_workflow_basics/README.md
+    - 3_data_transform/README.md
+    - 5_data_tidy/README.md
+    - 7_data_import/README.md
     - Data import: data_import/README.md
     - Summary 1: summary_1.md
     - Data transformation: data_transformation/README.md
