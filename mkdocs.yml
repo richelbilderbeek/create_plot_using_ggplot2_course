@@ -53,8 +53,8 @@ theme:
 markdown_extensions:
   - admonition
   - tables
-
-plugins:
-  - mermaid2:
-      arguments:
-        theme: redux-color
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
