@@ -11,7 +11,8 @@ tags:
 
 ### When should I follow this course?
 
-When you want to get started with R.
+When you need to create a plot and accept to use `ggplot2`
+to do so.
 
 Especially at the start of any new programming language,
 having help is very useful: some error messages seem
@@ -101,11 +102,13 @@ The teaching methods of this course follow the
 evidence-based teaching cycle by `[Bell, 2020a]`,
 which allows learner-centered teaching.
 
-## Website
+### Can I use other plotting libraries?
 
-### Why don't you just publish the Zoom room on the website?
+Yes, you are welcome to use other plotting libraries.
 
-As this course follow [Zoom's recommended practices](https://www.zoom.com/en/products/virtual-meetings/resources/securing-your-meetings/).
+### Can I use AI?
+
+Yes, you are welcome to use AI to create a plot.
 
 ## Other
 
