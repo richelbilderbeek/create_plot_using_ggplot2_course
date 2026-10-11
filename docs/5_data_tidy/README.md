@@ -26,7 +26,11 @@
 
 ![The dplyr logo](../logo/dplyr_logo_50.png)
 
-.
+The Tidyverse **assumes** your data is tidy
+when working on it. And only when your data is tidy,
+things work smoothly.
+
+The Tidyverse provides the `tidyr` package to help you tidy your data.
 
 ## Exercises
 
