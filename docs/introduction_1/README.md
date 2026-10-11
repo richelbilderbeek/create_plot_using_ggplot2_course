@@ -12,8 +12,11 @@
 
     Questions:
 
-    - Why use R?
-    - Why use ggplot2?
+    - What is R?
+    - Why use R for plotting?
+    - What is `ggplot2`?
+    - Why use `ggplot2` for plotting?
+    - What is RStudio?
     - Why use RStudio?
 
 ## Goal of this course
