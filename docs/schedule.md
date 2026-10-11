@@ -29,11 +29,11 @@ Day|Time        | Topic
 .  |11:00-11:15 | Break
 .  |.           | [2. Workflow: basics](2_workflow_basics/README.md)
 .  |12:00       | Done!
-2  |9:00        | 3. Data transformation
+2  |9:00        | [3. Data transformation](3_data_transform/README.md)
 .  |10:00-10:15 | Break
-.  |.           | 5. Data tidying
+.  |.           | [5. Data tidying](5_data_tidy/README.md)
 .  |11:00-11:15 | Break
-.  |.           | 7. Data import
+.  |.           | [7. Data import](7_data_import/README.md)
 .  |11:50-12:00 | [Evaluation](evaluation.md)
 .  |12:00       | Done!
 
