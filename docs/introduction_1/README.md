@@ -29,7 +29,18 @@ flowchart TD
   do_you_want_to_try_yourself --> |No| follow_the_course
 ```
 
+## This course setup
+
+- We use R: this seems to be most common in this course
+- We use R's `ggplot2` library: this is the most used plotting library in R
+- We use a free book, so that you **can** learn `ggplot2`
+
 ## Example
+
+For
+[a paper I am writing](https://richelbilderbeek.github.io/teaching/data/counts/)
+I collect data from online teaching: at multiple points in time,
+I write down the amount of learners that have their cameras on or off.
 
 This is the file with data:
 
@@ -49,10 +60,17 @@ time,n_cam_on,n_cam_off
 Here is [an R script](create_plot.R) to create a scalable vector graphic:
 
 ```r
+# This is an R script. Book chapter 6
+
+# Data import. Book chapter 7
 library(readr)
 t_wide <- read_csv("20240419_counts.csv")
+
+# Data transformation. Book chapter 3
 library(tidyr)
 t_tidy <- t_wide |> tidyr::pivot_longer(cols = c(n_cam_on, n_cam_off))
+
+# Data visualization. Book chaper 1
 library(ggplot2)
 ggplot(t_tidy, aes(x = time, y = value, color = name)) + geom_line()
 ggsave(filename = "my_plot.svg")
@@ -61,3 +79,4 @@ ggsave(filename = "my_plot.svg")
 Here is the scalable vector graphics
 
 ![My plot](my_plot.svg)
+
