@@ -38,14 +38,6 @@
 
 ???- question "Answers"
 
-    .
+    [See the answers here](https://mine-cetinkaya-rundel.github.io/r4ds-solutions/data-tidy.html)
 
-### Exercise 2
-
-- Read [R for data science, chapter 5](https://r4ds.hadley.nz/data-tidy.html)
-  until the exercises of .
-- Do these exercises
-
-???- question "Answers"
-
-    .
+    Note that the answers use chapter 6.
