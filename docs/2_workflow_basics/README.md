@@ -1,4 +1,4 @@
-# Basic R
+# 2. Workflow basics
 
 !!!- info "Learning outcomes"
 

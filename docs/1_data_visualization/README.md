@@ -1,4 +1,4 @@
-# Plotting
+# 1. Data visualisation
 
 !!!- info "Learning outcomes"
 

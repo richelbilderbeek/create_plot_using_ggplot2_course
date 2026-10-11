@@ -35,11 +35,11 @@ tags:
 
     Time        | Topic
     ------------|-----------------------------------------------------------------
-    9:00-10:00  | TODO: Data wrangling
+    9:00-10:00  | 3. Data transformation
     10:00-10:15 | Break
-    10:15-11:00 | TODO: Data import
+    10:15-11:00 | 5. Data tidying
     11:00-11:15 | Break
-    11:15-11:50 | .
+    11:15-11:50 | 7. Data import
     11:50-12:00 | [Evaluation](evaluation.md)
 
 <!-- markdownlint-enable MD013 -->
