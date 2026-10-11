@@ -57,3 +57,4 @@ flowchart TD
 - You can always
   [leave feedback anonymously](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/)
   that will be published: this helps improve the course
+

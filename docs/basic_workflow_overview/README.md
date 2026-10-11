@@ -2,8 +2,8 @@
 
 !!!- info "Learning outcomes"
 
-    - Learners have created a plot from their data
-    - Learners have used the book
+    - Learners have created a plot from data
+    - Learners heard about the book
       ['R for Data Science'](https://r4ds.hadley.nz/) for things they need
 
 ???- question "For teachers"
@@ -12,21 +12,13 @@
 
     - Repeat previous session
 
-    Repeat:
-
-    - What is `ggplot2`?
-    - What is `gg` in `gplot2`?
-    - Why use `ggplot2` for plotting?
-    - In `ggplot2` terminology, what is an aesthetics?
-    - In `ggplot2` terminology, what is a geometrical objects?
-
     Prior question:
 
-    - .
+    - You want to plot data using R. What are the steps to do so?
 
-## Goal of today
+## Goal
 
-To create a plot from your data.
+To have **done** a full workflow on how to create a plot from data.
 
 ???- question "Prefer a video?"
 
@@ -162,6 +154,10 @@ t$country <- as.factor(t$country)
 t$t <- as.numeric(t$t)
 ```
 
+Using factors is described in:
+
+- [Chapter 16: Factors](https://r4ds.hadley.nz/factors.html)
+
 Now the data looks like:
 
 |country |    t|    n|
@@ -178,6 +174,7 @@ Plotting this now works:
 ```r
 ggplot(t, aes(x = t, y = n, color = country)) + geom_line()
 ```
+
 
 ## 5. Saving the plot
 
