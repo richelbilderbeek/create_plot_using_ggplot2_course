@@ -10,7 +10,7 @@
 
     - Learners have heard to goal of the course
 
-    Questions:
+    Questions at start:
 
     - What is R?
     - Why use R for plotting?
@@ -18,6 +18,14 @@
     - Why use `ggplot2` for plotting?
     - What is RStudio?
     - Why use RStudio?
+
+    Questions at end:
+
+    - Is it OK to work in Python?
+    - Is it OK to use AI?
+    - Is it OK to use other R libraries for plotting?
+    - Is it OK to skip chapters you already know?
+    - Is it OK to leave early?
 
 ## Goal of this course
 
@@ -53,8 +61,9 @@ flowchart TD
 - You can work alone or in a group of two/three
 - Breaks are sacred, the schedule is not
 - You are encouraged to leave when you are done
-  (do say bye: it is the human thing to do)
+  and having filled in
+  [the course evaluation](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/).
+  Do say bye: it is the human thing to do
 - You can always
   [leave feedback anonymously](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/)
   that will be published: this helps improve the course
-
