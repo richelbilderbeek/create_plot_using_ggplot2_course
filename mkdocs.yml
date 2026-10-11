@@ -67,3 +67,5 @@ markdown_extensions:
   # For tabs, where tabs are shown horizontally besides each other
   - pymdownx.tabbed:
       alternate_style: true
+  # For making buttons around links
+  - attr_list
