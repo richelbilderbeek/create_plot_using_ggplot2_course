@@ -23,21 +23,20 @@ tags:
 
     Time        | Topic
     ------------|-----------------------------------------------------------------
-    13:00-13:15 | [Introduction](introduction_1/README.md)
-    13:15-13:45 | [Plotting](plotting/README.md)
-    13:40-14:00 | [Basic R 1/2](basic_r/README.md)
-    14:00-14:15 | Break
-    14:15-14:50 | [Basic R 2/2](basic_r/README.md), (optional) [Data import](data_import/README.md)
-    14:50-14:55 | [Summary](summary_1.md)
-    14:55-15:00 | [Evaluation](evaluation.md)
+    9:00-9:1 0  | [Introduction](introduction_1/README.md)
+    9:10-10:00  | Installing RStudio
+    10:00-10:15 | Break
+    10:15-11:00 | [Plotting](plotting/README.md)
+    11:00-11:15 | Break
+    11:15-12:00 | [Basic R](basic_r/README.md)
 
 === "Session 2: data wrangling"
 
     Time        | Topic
     ------------|-----------------------------------------------------------------
-    9:00-10:00  | [Create a plot](create_plot/README.md)
+    9:00-10:00  | TODO: Data wrangling
     10:00-10:15 | Break
-    10:15-11:00 | .
+    10:15-11:00 | TODO: Data import
     11:00-11:15 | Break
     11:15-11:50 | .
     11:50-12:00 | [Evaluation](evaluation.md)
