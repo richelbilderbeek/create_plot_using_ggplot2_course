@@ -39,6 +39,8 @@ To have **done** a full workflow on how to create a plot from data.
 
     after which the figure (as an SVG) can be worked upon in other tools.
 
+![Overview of a project, figure from 'R for Data Science' Introduction](base.png)
+
 ## A typical project visualization
 
 You want to visualize past and predicted
