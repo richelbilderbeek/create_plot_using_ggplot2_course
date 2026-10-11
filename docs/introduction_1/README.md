@@ -32,8 +32,14 @@ flowchart TD
 ## This course setup
 
 - We use R: this seems to be most common in this course
-- We use R's `ggplot2` library: this is the most used plotting library in R
-- We use a free book, so that you **can** learn `ggplot2`
+- We use R's `ggplot2` library:
+  this is the most used plotting library in R and it is very tunable
+- We use a free book, so that you **can** learn R and `ggplot2`
+- We use breakout rooms, so we can talk in small groups
+- You can work alone or in a group of 2 or 3
+- Breaks are sacred, the schedule is not
+- You are encouraged to leave when you are done
+  (do say bye: it is the human thing to do) 
 
 ## Example
 
@@ -42,7 +48,7 @@ For
 I collect data from online teaching: at multiple points in time,
 I write down the amount of learners that have their cameras on or off.
 
-This is the file with data:
+This is [the file with data](20240419_counts.csv):
 
 ```text
 time,n_cam_on,n_cam_off
@@ -80,3 +86,7 @@ Here is the scalable vector graphics
 
 ![My plot](my_plot.svg)
 
+Sure, this is a simple plot and a good start.
+Fancier plots can be found at many places, e.g
+[the top 50 `ggplot2` visualizations](https://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+or [the R graph gallery](https://r-graph-gallery.com/).
