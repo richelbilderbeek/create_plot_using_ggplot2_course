@@ -21,7 +21,7 @@ tags:
 
 Day|Time        | Topic
 ---|------------|-----------------------------------------------------------------
-1  |9:00        | [Introduction](introduction_1/README.md)
+1  |9:00        | [Introduction](introduction/README.md)
 .  |.           | [Install RStudio](install_rstudio/README.md)
 .  |.           | [Basic workflow overview](basic_workflow_overview/README.md)
 .  |10:00-10:15 | Break
@@ -34,6 +34,7 @@ Day|Time        | Topic
 .  |.           | [5. Data tidying](5_data_tidy/README.md)
 .  |11:00-11:15 | Break
 .  |.           | [7. Data import](7_data_import/README.md)
+.  |.           | [Summary](summary.md)
 .  |11:50-12:00 | [Evaluation](evaluation.md)
 .  |12:00       | Done!
 

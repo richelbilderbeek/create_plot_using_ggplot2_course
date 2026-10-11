@@ -9,7 +9,7 @@ nav:
   - Course dates: course_dates.md
   - Schedule: schedule.md
   - Sessions:
-    - introduction_1/README.md
+    - introduction/README.md
     - install_rstudio/README.md
     - basic_workflow_overview/README.md
     - 1_data_visualization/README.md
@@ -17,7 +17,7 @@ nav:
     - 3_data_transform/README.md
     - 5_data_tidy/README.md
     - 7_data_import/README.md
-    - summary_1.md
+    - summary.md
   - Misc:
     - Books: books/README.md
     - Evaluation: evaluation.md
