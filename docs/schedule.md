@@ -19,28 +19,23 @@ tags:
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-=== "Session 1: ggplot2 and basic R"
-
-    Time        | Topic
-    ------------|-----------------------------------------------------------------
-    9:00        | [Introduction](introduction_1/README.md)
-    .           | [Install RStudio](install_rstudio/README.md)
-    .           | [Basic workflow overview](basic_workflow_overview/README.md)
-    10:00-10:15 | Break
-    .           | [1. Data visualization](1_data_visualization/README.md)
-    11:00-11:15 | Break
-    .           | [2. Workflow: basics](2_workflow_basics/README.md)
-
-=== "Session 2: data wrangling"
-
-    Time        | Topic
-    ------------|-----------------------------------------------------------------
-    9:00-10:00  | 3. Data transformation
-    10:00-10:15 | Break
-    10:15-11:00 | 5. Data tidying
-    11:00-11:15 | Break
-    11:15-11:50 | 7. Data import
-    11:50-12:00 | [Evaluation](evaluation.md)
+Day|Time        | Topic
+---|------------|-----------------------------------------------------------------
+1  |9:00        | [Introduction](introduction_1/README.md)
+.  |.           | [Install RStudio](install_rstudio/README.md)
+.  |.           | [Basic workflow overview](basic_workflow_overview/README.md)
+.  |10:00-10:15 | Break
+.  |.           | [1. Data visualization](1_data_visualization/README.md)
+.  |11:00-11:15 | Break
+.  |.           | [2. Workflow: basics](2_workflow_basics/README.md)
+.  |12:00       | Done!
+2  |9:00        | 3. Data transformation
+.  |10:00-10:15 | Break
+.  |.           | 5. Data tidying
+.  |11:00-11:15 | Break
+.  |.           | 7. Data import
+.  |11:50-12:00 | [Evaluation](evaluation.md)
+.  |12:00       | Done!
 
 <!-- markdownlint-enable MD013 -->
 
