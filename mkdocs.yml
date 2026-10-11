@@ -51,9 +51,13 @@ theme:
     - content.action.view
 
 markdown_extensions:
+  # For adminitions, such as 'note', 'warning', etc
   - admonition
+  # For tables
   - tables
+  # For drop-down adminitions
   - pymdownx.details
+  # For mermaid
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
