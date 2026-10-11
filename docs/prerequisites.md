@@ -7,10 +7,9 @@ tags:
 
 # Prerequisites
 
-Before the course, you must have done these **two** things:
+Before the course, you must have done this **one** thing:
 
-- Prerequisite 1/2: Install RStudio
-- Prerequisite 2/2: have a good Zoom setup
+- Prerequisite 1/1: have a good Zoom setup
 
 ???- question "Any questions about this?"
 
