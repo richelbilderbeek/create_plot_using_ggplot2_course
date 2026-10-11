@@ -21,12 +21,17 @@ Evaluate the course anonymously              |[Course evaluation form](https://d
 
 ???- question "For teachers: what is in the 'Any feedback' form?"
 
+    <!-- markdownlint-disable MD013 --><!-- Allow easy copy-paste, hence will break 80 characters per line -->
+
     Thanks for your feedback.
     This feedback will be published as-is at the end of each day, if and only if there are no personal details (email, address, etc.) in the feedback.
     Do mention the teachers, assistants, etc by name!
 
+    <!-- markdownlint-enable MD013 -->
 
 ???- question "For teachers: what is in the course evaluation form?"
+
+    <!-- markdownlint-disable MD013 --><!-- Allow easy copy-paste, hence will break 80 characters per line -->
 
     These are the evaluation questions.
     The goals of these questions is to find out how successful the course is in achieving its teaching goals.
@@ -42,3 +47,5 @@ Evaluate the course anonymously              |[Course evaluation form](https://d
     Thanks for your feedback!
 
     This feedback will be published as-is at the end of the day, if and only if there are no personal details (email, address, etc.) in the feedback. Do mention the teachers, assistants, etc by name!
+
+    <!-- markdownlint-enable MD013 -->
