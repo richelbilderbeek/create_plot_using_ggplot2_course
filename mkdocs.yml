@@ -69,3 +69,6 @@ markdown_extensions:
       alternate_style: true
   # For making buttons around links
   - attr_list
+  # Headers are turned into links
+  - toc:
+      permalink: true
