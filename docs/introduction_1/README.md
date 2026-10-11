@@ -51,12 +51,12 @@ flowchart TD
 - You can work alone or in a group of two/three
 - Breaks are sacred, the schedule is not
 - You are encouraged to leave when you are done
-  (do say bye: it is the human thing to do) 
+  (do say bye: it is the human thing to do)
 - You can always
   [leave feedback anonymously](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/)
   that will be published: this helps improve the course
 
-## Example
+## Example workflow
 
 For
 [a paper I am writing](https://richelbilderbeek.github.io/teaching/data/counts/)
@@ -112,4 +112,3 @@ or [the R graph gallery](https://r-graph-gallery.com/).
 ## Demo
 
 I will show you how to run this code.
-
