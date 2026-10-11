@@ -1,7 +1,7 @@
 library(readr)
 t_wide <- read_csv("20240419_counts.csv")
 library(tidyr)
-t_tidy <- t_wide |> tidyr::pivot_longer(cols = c(n_cam_on, n_cam_off))
+t_tidy <- t_wide |> pivot_longer(cols = c(n_cam_on, n_cam_off))
 library(ggplot2)
 ggplot(t_tidy, aes(x = time, y = value, color = name)) + geom_line()
 ggsave(filename = "my_plot.svg")

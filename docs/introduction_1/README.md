@@ -34,12 +34,16 @@ flowchart TD
 - We use R: this seems to be most common in this course
 - We use R's `ggplot2` library:
   this is the most used plotting library in R and it is very tunable
-- We use a free book, so that you **can** learn R and `ggplot2`
+- We use [a free book](https://r4ds.hadley.nz/),
+  so that you **can** learn R and `ggplot2`
 - We use breakout rooms, so we can talk in small groups
-- You can work alone or in a group of 2 or 3
+- You can work alone or in a group of two/three
 - Breaks are sacred, the schedule is not
 - You are encouraged to leave when you are done
   (do say bye: it is the human thing to do) 
+- You can always
+  [leave feedback anonymously](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/)
+  that will be published: this helps improve the course
 
 ## Example
 
@@ -74,19 +78,27 @@ t_wide <- read_csv("20240419_counts.csv")
 
 # Data transformation. Book chapter 3
 library(tidyr)
-t_tidy <- t_wide |> tidyr::pivot_longer(cols = c(n_cam_on, n_cam_off))
+t_tidy <- t_wide |> pivot_longer(cols = c(n_cam_on, n_cam_off))
 
-# Data visualization. Book chaper 1
+# Data visualization. Book chapter 1
 library(ggplot2)
 ggplot(t_tidy, aes(x = time, y = value, color = name)) + geom_line()
 ggsave(filename = "my_plot.svg")
 ```
 
-Here is the scalable vector graphics
+Here is the scalable vector graphic:
 
 ![My plot](my_plot.svg)
 
-Sure, this is a simple plot and a good start.
+This is a simple plot and a good start:
+it can be expanded upon in Inkscape or in `ggplot2` itself (see, e.g.
+[Chapter 11: Communication](https://r4ds.hadley.nz/communication.html)).
+
 Fancier plots can be found at many places, e.g
 [the top 50 `ggplot2` visualizations](https://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 or [the R graph gallery](https://r-graph-gallery.com/).
+
+## Demo
+
+I will show you how to run this code.
+
