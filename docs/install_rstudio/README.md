@@ -44,3 +44,26 @@ RStudio is:
 - Download the (Open Source) RStudio version
   that is suitable for your operating system
 - Run the RStudio installer. Use all defaults.
+
+## Exercise 2: install the `tidyverse` packages
+
+Follow the instructions at
+[section 'The `tidyverse`'](https://r4ds.hadley.nz/intro.html#the-tidyverse)
+to install the Tidyverse packages
+
+???- question "How does that look like?"
+
+    ![Installing the Tidyverse packages](install_tidyverse.png)
+
+This can take a while and this is a great moment to already scan
+[the book 'R for data scientists'](https://r4ds.hadley.nz/).
+
+## Exercise 3: activate the `tidyverse` packages
+
+Follow the instructions at
+[section 'The `tidyverse`'](https://r4ds.hadley.nz/intro.html#the-tidyverse)
+to activate the Tidyverse packages.
+
+???- question "How does that look like?"
+
+    ![Activating the Tidyverse packages](activate_tidyverse.png)
