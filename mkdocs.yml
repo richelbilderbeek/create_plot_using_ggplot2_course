@@ -1,4 +1,4 @@
-site_name: Intro to R
+site_name: Create a plot using ggplot2
 repo_url: https://github.com/richelbilderbeek/create_plot_using_ggplot2_course
 edit_uri: blob/main/docs/
 
@@ -29,7 +29,6 @@ nav:
 
 theme:
   name: material
-  greetings: Welcome to the 'Intro to R' course
   font:
     text: Lato
     code: JetBrains Mono
