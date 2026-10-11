@@ -37,8 +37,5 @@ read_csv("my_data.csv")
 
 ## Where to go from here?
 
-- [Check the course dates](course_dates.md)
-  to follow the next session for this course,
-  which has a focus on making your data tidy
 - [Self study: read these free books](books/README.md)
-- [Other courses in life science and HPC computing](https://nbisweden.github.io/SCoRe_user_doc/courses/)
+- [Other courses in life science and HPC computing](https://docs.score.nbis.se/courses/)

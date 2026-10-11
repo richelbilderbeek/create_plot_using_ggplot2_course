@@ -10,10 +10,21 @@
 
     - Learners have heard to goal of the course
 
+    Questions:
+
+    - Why use R?
+    - Why use ggplot2?
+    - Why use RStudio?
+
+
 ## Goal of this course
 
-Create a plot needed for the
-Scientific Illustration and Data Visualisation course.
+!!! note "The goal of this course"
+
+    Create a plot needed for the
+    Scientific Illustration and Data Visualisation course.
+
+This course is optional.
 
 ```mermaid
 flowchart TD

@@ -23,12 +23,13 @@ tags:
 
     Time        | Topic
     ------------|-----------------------------------------------------------------
-    9:00-9:1 0  | [Introduction](introduction_1/README.md)
-    9:10-10:00  | Installing RStudio
+    9:00        | [Introduction](introduction_1/README.md)
+    .           | [Install RStudio](install_rstudio/README.md)
+    .           | [Plotting](plotting/README.md)
     10:00-10:15 | Break
-    10:15-11:00 | [Plotting](plotting/README.md)
+    .           | [Plotting](plotting/README.md)
     11:00-11:15 | Break
-    11:15-12:00 | [Basic R](basic_r/README.md)
+    .           | [Basic R](basic_r/README.md)
 
 === "Session 2: data wrangling"
 
