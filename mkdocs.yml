@@ -11,11 +11,11 @@ nav:
   - Sessions:
     - Introduction 1: introduction_1/README.md
     - Install RStudio: install_rstudio/README.md
+    - Create a plot: create_plot/README.md
     - Plotting: plotting/README.md
     - Basic R: basic_r/README.md
     - Data import: data_import/README.md
     - Summary 1: summary_1.md
-    - Create a plot: create_plot/README.md
     - Data transformation: data_transformation/README.md
     - Data tidying: data_tidying/README.md
   - Misc:
