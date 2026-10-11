@@ -44,7 +44,7 @@ Basic R applies to all programming in R.
 
 ## Exercises
 
-### Exercise 1
+### Exercise 1: Chapter 2
 
 - Read [R for data science, chapter 2](https://r4ds.hadley.nz/workflow-basics.html)
   until the exercises of 2.5.
@@ -57,7 +57,10 @@ Basic R applies to all programming in R.
     Note that the answers use chapter 3.5.
 
 
-### Exercise 2
+### (Optional) Exercise 2: `swirl`
+
+`swirl` is an R package to teach R.
+The goal of this exercise is to see how useful it may be to you.
 
 - Install the `swirl` R package
 
@@ -93,7 +96,5 @@ Basic R applies to all programming in R.
 - Give your name
 - Pick the `R Programming` course
 - Pick the `1: Basic Building Blocks` lesson
-- Do at least 1 exercise, so you know how `swirl` behaves:
+- Do 1 exercise, so you know how `swirl` behaves:
   the goal is to know whether to recommend/use `swirl`.
-  Do as much exercises of this lesson as you think is useful to you
-
