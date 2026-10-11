@@ -27,7 +27,7 @@ tags:
     .           | [Install RStudio](install_rstudio/README.md)
     .           | [Basic workflow overview](basic_workflow_overview/README.md)
     10:00-10:15 | Break
-    .           | [Data visualization with `ggplot2`](plotting/README.md)
+    .           | [Data visualization with `ggplot2`](1_data_visualization/README.md)
     11:00-11:15 | Break
     .           | [Basic R](basic_r/README.md)
 

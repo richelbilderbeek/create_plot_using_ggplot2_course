@@ -12,7 +12,7 @@ nav:
     - Introduction 1: introduction_1/README.md
     - Install RStudio: install_rstudio/README.md
     - Basic workflow overview: basic_workflow_overview/README.md
-    - Plotting: plotting/README.md
+    - Plotting: 1_data_visualization/README.md
     - Basic R: basic_r/README.md
     - Data import: data_import/README.md
     - Summary 1: summary_1.md
