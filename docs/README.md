@@ -5,7 +5,9 @@
 ![The ggplot2 logo](logo/ggplot2_logo_5.png)
 ![The dplyr logo](logo/dplyr_logo_50.png)
 
-The goal of this course is to create a plot using `ggplot2`
+The goal of this course is to create a plot using `ggplot2`.
+
+This workshop is aimed at learners from any initial skill level.
 
 [Learning outcomes](learning_outcomes.md){ .md-button .md-button--primary }
 [Prerequisites](prerequisites.md){ .md-button .md-button--primary }

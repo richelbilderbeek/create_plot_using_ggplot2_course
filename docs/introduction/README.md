@@ -52,6 +52,7 @@ flowchart TD
 
 ## This course setup
 
+- This workshop is aimed at learners from any initial skill level.
 - We use R: this seems to be most common in this course
 - We use R's `ggplot2` library:
   this is the most used plotting library in R and it is very tunable
@@ -60,6 +61,8 @@ flowchart TD
 - We use breakout rooms, so we can talk in small groups
 - You can work alone or in a group of two/three
 - Breaks are sacred, the schedule is not
+  Advanced learners will likely finish earlier.
+  Beginner learners will get the extra time and help they need.
 - You are encouraged to leave when you are done
   and having filled in
   [the course evaluation](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/).

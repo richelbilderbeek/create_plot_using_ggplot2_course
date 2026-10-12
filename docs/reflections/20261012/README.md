@@ -8,7 +8,18 @@
 
 ## Before teaching
 
+While preparing, I already concluded to call this a workshop.
+
 - [ ] Call this a workshop
+
+Besides that, one weakness I will discover later, is that
+originally I started with the book, then moved to the
+general workflow overview. I reversed that.
+This had two negative consequences:
+
+- The learners were more ill-prepared to do the exercises:
+  they had not created an R script yet, etc
+- That session was not updated to reflect the (lower) starting point
 
 ## During teaching
 
@@ -67,7 +78,7 @@ not those at the start at 9:00. For that later group, I rushed through
 the introduction and I can imagine some of my message is lost, such as
 the 'this course is for beginners too' message.
 
-- [ ] Make it clearer that this workshop is for beginners
+- [x] Make it clearer that this workshop is for beginners
 
 I expected the mismatch between
 the bigger courses' schedule and my workshop's setup to give
