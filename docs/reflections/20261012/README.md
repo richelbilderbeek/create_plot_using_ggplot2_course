@@ -88,7 +88,28 @@ the bigger courses' schedule and my workshop's setup to give
 problems and this is an unfortunate example of that.
 This is something that can be fixed:
 
-- [ ] Ask Meike to announce my first day as one big block
+- [ ] Ask the course leader to announce my first day as one big block
+
+About the learner again: I was contacted by him/her
+
+```
+Hi Richel,
+Thank you for reaching out and for the invitation.
+I think I need a bit more time to work on my own and get familiar with the basics at my own pace. For now, I'll continue practicing independently, but I really appreciate your offer of support.
+If I find that I need additional help or guidance, I'll definitely get back to you.
+Thanks again, and I hope to join one of your sessions in the future.
+Cheers,
+```
+
+Where I replied with;
+
+```
+Great! Looking forward to see your achievements :slightly_smiling_face: !
+
+And I'd be happy to help: there are so stupid questions for me :+1:
+```
+
+So, that ended semi-alright, but it would have been better prevented.
 
 About the course goals again, now it is this:
 
@@ -107,7 +128,7 @@ want this? I need the course leader's ideas to help me understand.
 
 I can already prep this for tomorrow:
 
-- [ ] Show some ggplot2 examples, e.g. 
+- [->] Show some ggplot2 examples, e.g. 
   - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
   - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 

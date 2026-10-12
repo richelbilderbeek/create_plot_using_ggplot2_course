@@ -14,3 +14,7 @@ To add:
   - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
   - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 
+Open questions:
+
+- Demo
+- Check results
