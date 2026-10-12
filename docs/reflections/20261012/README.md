@@ -37,7 +37,9 @@ which gave new problems: in Swedish Excel, exporting to a CSV
 results in values separated by a semicolon (i.e. not a comma)!
 This needlessly slowed around 4 learners down.
 
-- [ ] Describe in more detail how to create a data file
+- [x] Describe in more detail how to create a data file
+- [x] Describe in more detail how to create an R script
+- [ ] Consider to demo this section
 
 Besides that, all seem to be in good shape, including the beginners.
 

@@ -73,18 +73,71 @@ From the context, you understand that:
   in millions
 
 This data is best saved as a comma-separated (`.csv`) file.
-If your data is in a spreadsheat (e.g. Calc or Excel),
-you can typically export your data as a (`.csv`) file.
+
+In RStudio, create a new text file: click on 'File | New File | Text File'. 
+
+???- question "Where do I need to click?"
+
+    Click on 'File | New File | Text File':
+
+    ![Click on 'File | New File | Text File'](create_new_text_file.png)
+
+You now have created an empty text file called `Untitled1`.
+
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![`Untitled1` in RStudio](untitled1_in_rstudio.png)
+
+In this file, paste the data as in the table and use commas as a seperator,
+like this.
+
+```text
+Country,2000,2015,2030
+China,1270,1376,1416
+India,1053,1311,1528
+```
+
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![`Untitled1` in RStudio with the data](untitled1_in_rstudio_with_data.png)
+
+Save this file by clicking 'File | Save'.
+
+???- question "Where do I need to click?"
+
+    Click on 'File | Save':
+
+    ![Click on 'File | Save'](click_file_save.png)
+
+When asked for a name, type `population_sizes.csv` and click 'Save'.
+
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![Type `population_sizes.csv` and click 'Save'](save_as_population_sizes_csv.png)
+
+Now you can see in RStudio that your text file is called `population_sizes.csv`.
+
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![`population_sizes.csv` in RStudio](population_sizes_csv_in_rstudio_with_data.png)
 
 ## 2. Reading the data
 
 When the data is saved as a `.csv` file called
-[`introduction_2.csv`](introduction_2.csv),
+[`population_sizes.csv`](population_sizes.csv),
 you can read this data in R like this:
 
 ```R
 library(readr)
-t <- read_csv("introduction_2.csv")
+t <- read_csv("population_sizes.csv")
 ```
 
 Now you data is in a table called `t`.
