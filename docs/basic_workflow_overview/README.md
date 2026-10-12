@@ -141,19 +141,114 @@ Now you can see in RStudio that your text file is called `population_sizes.csv`.
 
 ## 2. Reading the data
 
-When the data is saved as a `.csv` file called
-[`population_sizes.csv`](population_sizes.csv),
-you can read this data in R like this:
+To read the data, we create a file that will contain our R code.
+
+Click on 'File | New | R Script'.
+
+???- question "Where do I need to click?"
+
+    Click on 'File | New | R Script':
+
+    ![Click on 'File | New | R Script'](click_file_new_r_script.png)
+
+You now have created another empty file called `Untitled1`.
+
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![`Untitled1` in RStudio again](untitled1_in_rstudio_again.png)
+
+In this file, paste the R code below:
 
 ```R
 library(readr)
 t <- read_csv("population_sizes.csv")
 ```
 
-Now you data is in a table called `t`.
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![`Untitled1` in RStudio with code](untitled1_in_rstudio_with_code.png)
+
+
+Save this file by clicking 'File | Save'.
+
+???- question "Where do I need to click?"
+
+    Click on 'File | Save':
+
+    ![Click on 'File | Save'](click_file_save.png)
+
+When asked for a name, type `create_plot.R` and click 'Save'.
+
+???- question "What does that look like?"
+
+    This -so called- 'Save dialog' depends on your operating system.
+    You will recognize it, as it is the same as used by your other programs.
+
+    If you use Ubuntu, your screen looks similar to this:
+
+    ![Type `create_plot.R` and click 'Save'](save_as_create_plot_r.png)
+
+Now you can see in RStudio that your text file is called `create_plot.R`.
+
+???- question "What does that look like?"
+
+    Your screen looks similar to this:
+
+    ![`population_sizes.csv` in RStudio](create_plot_r_in_rstudio.png)
+
+You have now created your first R *script*.
+A script is a plain-text file with code.
+
+To run the code, put your cursor on the first line and press `ctrl` and `Enter`.
+
+???- question "What does that look like?"
+
+    Your cursor at the first line looks similar to this:
+
+    ![Put your cursor on the first line](cursor_at_line_1.png)
+
+    After pressing `ctrl` and `Enter`, your screen looks similar to this:
+
+    ![Put your cursor on the second line](cursor_at_line_2.png)
+
+You have just run the code `library(readr)`. This allow you to use code
+written by others. In a bit more formal wording:
+you have now activated the `readr` library. 
+
+Run the second line too, by pressing `ctrl` and `Enter` again.
+
+???- question "What does that look like?"
+
+    This looks similar to this:
+
+    ![Your cursor is now on the third line](cursor_at_line_3.png)
+
+You have now read the file in R. The file is read and turned into
+a table you can work on. The table is called `t`.
 
 Reading the data is described in
 [Chapter 7: Data Import](https://r4ds.hadley.nz/data-import.html).
+
+Because we use RStudio, we can easily see the data we have loaded in
+computer memory: at the right-side of the screen, double-click on `t`.
+
+???- question "Where do I need to click?"
+
+    Double-click on `t` here:
+
+    ![Click on `t`](click_t.png)
+
+You will now see the table called `t`, as well as some summary information
+
+???- question "What does that look like?"
+
+    This looks similar to this:
+
+    ![`t` with some summary information](view_t_with_summary.png)
 
 ## 3. Tidying the data
 
@@ -186,7 +281,9 @@ t <- t |> pivot_longer(
 )
 ```
 
-Now the data is tidy like this:
+Add this code at the end of the `create_plot.R` script and run it.
+
+You can now observe that `t` is tidy like this:
 
 |Country |name | value|
 |:-------|:----|-----:|
@@ -197,6 +294,12 @@ Now the data is tidy like this:
 |India   |2015 |  1311|
 |India   |2030 |  1528|
 
+???- question "Where do I need to click to see `t` again?"
+
+    Double-click on `t` here:
+
+    ![Click on `t`](click_t.png)
+
 Transforming the data is described in:
 
 - [Chapter 3: Data Transformation](https://r4ds.hadley.nz/data-transform.html)
@@ -204,14 +307,7 @@ Transforming the data is described in:
 
 ## 4. Cleaning the data
 
-We need to clean the data, as plotting the data as such will fail:
-
-```r
-library(ggplot2)
-ggplot(t, aes(x = name, y = value, color = Country)) + geom_line() # Will fail
-```
-
-We do some data transformations:
+Now we need to do some data transformations:
 
 ```r
 names(t) <- c("country", "t", "n")
@@ -219,9 +315,23 @@ t$country <- as.factor(t$country)
 t$t <- as.numeric(t$t)
 ```
 
-Using factors is described in:
+Add this code at the end of the `create_plot.R` script and run it.
 
-- [Chapter 16: Factors](https://r4ds.hadley.nz/factors.html)
+???- question "What does that look like?"
+
+    This looks similar to this:
+
+    ![Cursor at line 6](cursor_at_line_6.png)
+
+What we have just done:
+
+- We set the column names of `t` to `country` and `t` and `n`
+- We set the `country` column to be *categorial*: countries are
+  categorical, in this case, either `India` or `China`. 
+  The technical term is that a country is a factor.
+  Using factors is described in
+  [Chapter 16: Factors](https://r4ds.hadley.nz/factors.html)
+- We set the `t` column to be *numeric*, as years are numbers
 
 Now the data looks like:
 
@@ -237,9 +347,17 @@ Now the data looks like:
 Plotting this now works:
 
 ```r
+library(ggplot2)
 ggplot(t, aes(x = t, y = n, color = country)) + geom_line()
 ```
 
+Add this code at the end of the `create_plot.R` script and run it.
+
+???- question "What does that look like?"
+
+    This looks similar to this:
+
+    ![Cursor at line 13](cursor_at_line_13.png)
 
 ## 5. Saving the plot
 
@@ -249,6 +367,8 @@ After having plotted the plot, it can be saved as such:
 ggsave("my_plot.svg")
 ggsave("my_plot.png")
 ```
+
+Add this code at the end of the `create_plot.R` script and run it.
 
 ## 6. Refine
 
@@ -271,6 +391,8 @@ ggplot(t, aes(x = t, y = n, color = country)) +
   scale_y_continuous("Population size (million)", limits = c(0, NA)) +
   labs(title = "Population size in time", color = "Country")
 ```
+
+Add this code at the end of the `create_plot.R` script and run it.
 
 Now the plot has proper labels:
 
