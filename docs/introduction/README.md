@@ -67,3 +67,8 @@ flowchart TD
 - You can always
   [leave feedback anonymously](https://richelbilderbeek.github.io/create_plot_using_ggplot2_course/evaluation/)
   that will be published: this helps improve the course
+
+Sometimes I will ask for a 'Yes' or 'No' reaction. Here is where you
+can find these in Zoom:
+
+![A 'Yes' or 'No' reaction](zoom_yes_no.gif)
