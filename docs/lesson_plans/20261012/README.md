@@ -8,15 +8,19 @@
 
 ## 2026-10-11
 
-So, the course goal is to create a plot using ggplot2.
-The current course goal, however, states that it teaches
-R using a Tidyverse-first approach.
+I created a course website from pseudo-scratch in five hours.
+Pseudo-scratch, as I started with
+[the 'Intro to R' course](https://richelbilderbeek.github.io/intro_r_course/)
+I have taught before, but with a ruthless focus on the learning outcome:
+to create a plot for the Scientific Illustration and Data Visualisation course.
 
-This feels like a completely different course.
+Maybe the word 'Workshop' is better for next time: my definitions
+are sloppy in this. Checking e.g. `[De Grave et al., 2013]` assures
+me that I should call this a workshop next time.
 
-Maybe I should start from fresh?
+Besides that, I feel perfectly ready.
 
-Let's do so.
+## References
 
-[Here is the new GitHub repository](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course).
+- `[De Grave et al., 2013]` De Grave, Willem, et al. "Workshops and seminars: enhancing effectiveness." Faculty development in the health professions: A focus on research and practice. Dordrecht: Springer Netherlands, 2013. 181-195.
 
