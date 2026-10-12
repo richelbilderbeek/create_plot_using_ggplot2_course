@@ -124,7 +124,10 @@ When asked for a name, type `population_sizes.csv` and click 'Save'.
 
 ???- question "What does that look like?"
 
-    Your screen looks similar to this:
+    This -so called- 'Save dialog' depends on your operating system.
+    You will recognize it, as it is the same as used by your other programs.
+
+    If you use Ubuntu, your screen looks similar to this:
 
     ![Type `population_sizes.csv` and click 'Save'](save_as_population_sizes_csv.png)
 
