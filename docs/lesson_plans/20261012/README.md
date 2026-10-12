@@ -22,5 +22,8 @@ Besides that, I feel perfectly ready.
 
 ## References
 
+<!-- markdownlint-disable MD013 --><!-- Keep references one-liners for easy copy-pasting, hence will break 80 characters per line -->
+
 - `[De Grave et al., 2013]` De Grave, Willem, et al. "Workshops and seminars: enhancing effectiveness." Faculty development in the health professions: A focus on research and practice. Dordrecht: Springer Netherlands, 2013. 181-195.
 
+<!-- markdownlint-enable MD013 -->
