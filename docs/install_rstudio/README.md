@@ -1,25 +1,26 @@
-# Install RStudio
+# Install RStudio and the Tidyverse packages
 
 !!!- info "Learning outcomes"
 
-    - Install RStudio
+    - Install RStudio and the Tidyverse packages
 
 ???- question "For teachers"
 
     Teaching goals are:
 
-    - Learners have installed RStudio
+    - Learners have installed RStudio and the Tidyverse packages
 
     Questions:
 
     - Why use RStudio?
+    - Why use the Tidyverse?
 
 ## Goals
 
 - Install RStudio
-- Minimal use of RStudio
+- Using RStudio to install the Tidyverse packages
 
-## What is RStudio
+## What is RStudio?
 
 ![RStudio on Ubuntu](rstudio_on_ubuntu_50.png)
 
