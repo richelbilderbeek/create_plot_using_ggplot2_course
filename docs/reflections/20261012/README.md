@@ -132,3 +132,7 @@ I can already prep this for tomorrow:
   - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
   - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 
+I have just checked the evaluation results.
+There are non yet.
+I understand that: those that left earlier did not really need me.
+Tomorrow, there will be proper time for this :+1:
