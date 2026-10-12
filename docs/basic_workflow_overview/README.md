@@ -10,7 +10,7 @@
 
     Teaching goals are:
 
-    - Repeat previous session
+    - Learners have experienced the steps on how to create a plot from data
 
     Prior question:
 

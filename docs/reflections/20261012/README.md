@@ -49,7 +49,7 @@ results in values separated by a semicolon (i.e. not a comma)!
 This needlessly slowed around 4 learners down.
 
 - [x] Describe in more detail how to create a data file
-- [ ] Describe in more detail how to create an R script
+- [x] Describe in more detail how to create an R script
 
 Also, to most learners it was unclear what the goal was of this session.
 
