@@ -18,8 +18,15 @@
 
 ## Goal
 
-To have **done** a full workflow on how to create a plot from data.
+!!! info "Goal of this session"
 
+    The goal of this session is to **experience**
+    a full workflow on how to create a plot from data.
+    You will remember the steps you did.
+
+    Non-goals are to go into detail what happens **yet**:
+    instead, each step is described in more detail in the next sessions.
+    
 ???- question "Prefer a video?"
 
     [View this session as a YouTube video](https://youtu.be/OwymEQTsks8)

@@ -49,14 +49,17 @@ results in values separated by a semicolon (i.e. not a comma)!
 This needlessly slowed around 4 learners down.
 
 - [x] Describe in more detail how to create a data file
-- [x] Describe in more detail how to create an R script
+- [ ] Describe in more detail how to create an R script
+
+Also, to most learners it was unclear what the goal was of this session.
+
+- [x] Describe in more detail the goal of this session
 - [ ] Consider to demo this section
 
 Besides that, all seem to be in good shape, including the beginners.
 
 I ask, however, about a learner that left a group. I wrote him/her
 a personal message on Slack:
-
 
 ```
 Hi [name],
