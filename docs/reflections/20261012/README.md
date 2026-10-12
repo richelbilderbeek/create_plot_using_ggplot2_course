@@ -6,6 +6,18 @@
 - Session: 1
 - Date: 2026-10-12
 
+## Before teaching
+
+- [ ] Call this a workshop
+
+## During teaching
+
+During teaching I spoke to the course coordinator.
+She stated that the purpose of this workshop
+is not only to create a plot, but
+also to discover the possibilities of R and `ggplot2`.
+At that time, I said we'll talk about it later.
+
 ## After teaching
 
 I have mixed feelings about how the teaching went.
@@ -48,6 +60,38 @@ Cheers, Richel
 I shared this with the course coordinator, to both inform and to 
 share my unhappiness with this.
 
+I did see this learner was among the six that joined at 10:15,
+not those at the start at 9:00. For that later group, I rushed through
+the introduction and I can imagine some of my message is lost, such as
+the 'this course is for beginners too' message.
 
+- [ ] Make it clearer that this workshop is for beginners
 
- 
+I expected the mismatch between
+the bigger courses' schedule and my workshop's setup to give
+problems and this is an unfortunate example of that.
+This is something that can be fixed:
+
+- [ ] Ask Meike to announce my first day as one big block
+
+About the course goals again, now it is this:
+
+> Create a plot needed for the
+> Scientific Illustration and Data Visualisation course.
+
+I tried to add what the course coordinator wants:
+
+> See the possibility that R and `ggplot2` offer
+
+However, this does feel weird: why would a 
+Scientific Illustration and Data Visualisation course
+want this? I need the course leader's ideas to help me understand.
+
+- [ ] Discuss with the course leader about my workshop's goals
+
+I can already prep this for tomorrow:
+
+- [ ] Show some ggplot2 examples, e.g. 
+  - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
+  - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+

@@ -29,7 +29,7 @@
 
 ## Goal of this course
 
-!!! note "The goal of this course"
+!!! note "The goals of this course"
 
     Create a plot needed for the
     Scientific Illustration and Data Visualisation course.
