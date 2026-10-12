@@ -14,3 +14,12 @@ The goal of this course is to create a plot using `ggplot2`
 [Evaluation](evaluation.md){ .md-button .md-button--primary }
 [Contact us](contact_us.md){ .md-button .md-button--primary }
 
+<!-- markdownlint-disable MD013 --><!-- Badges cannot be split up over lines, hence will break 80 characters per line -->
+
+[![Check links](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_links.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_links.yaml)
+[![Check Markdown](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_markdown.yaml)
+[![Check spelling](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_spelling.yaml)
+[![Create website](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/create_website.yaml)
+[![DOI](https://zenodo.org/badge/1414406181.svg)](https://doi.org/10.5281/zenodo.23310179)
+
+<!-- markdownlint-enable MD013 -->

@@ -6,6 +6,7 @@
 [![Check Markdown](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_markdown.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_markdown.yaml)
 [![Check spelling](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_spelling.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/check_spelling.yaml)
 [![Create website](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/create_website.yaml/badge.svg?branch=main)](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/actions/workflows/create_website.yaml)
+[![DOI](https://zenodo.org/badge/1414406181.svg)](https://doi.org/10.5281/zenodo.23310179)
 
 <!-- markdownlint-enable MD013 -->
 
