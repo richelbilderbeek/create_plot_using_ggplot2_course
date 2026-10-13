@@ -128,7 +128,7 @@ want this? I need the course leader's ideas to help me understand.
 
 I can already prep this for tomorrow:
 
-- [->] Show some ggplot2 examples, e.g. 
+- [x] Show some ggplot2 examples, e.g. 
   - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
   - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 
