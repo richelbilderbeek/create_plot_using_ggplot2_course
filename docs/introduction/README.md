@@ -101,8 +101,17 @@ can find these in Zoom:
 - `ggplot2` is an R package for plotting
 - `ggplot2` is **widely used**: it is among
   [the top 100 most downloaded R packages](https://r-packages.io/top-packages)
-- `ggplot2` can create publication-ready plots
+- `ggplot2` can create the most commonly used plots, e.g. those
+  [showcased in this gallery](https://r-graph-gallery.com/ggplot2-package.html)
+- `ggplot2` has many extensions to plot even more, e.g. those
+  [showcased in this gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+- `ggplot2` can create publication-ready plots: you will start recognizing
+  them :-)
 
-![[Vaccination heatmap, from the R Graph gallery](https://r-graph-gallery.com/vaccination-heatmap.html)](vaccination_heatmap.png)
+[![Vaccination heatmap, from the R Graph gallery](vaccination_heatmap.png)](https://r-graph-gallery.com/vaccination-heatmap.html)
 
 ## Why use the book 'R for Data Scientists'?
+
+[!['R for Data Scientists' book cover](book_cover.jpg)](https://r4ds.hadley.nz/)
+
+- We use [a free book](https://r4ds.hadley.nz/),
