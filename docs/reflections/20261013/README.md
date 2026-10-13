@@ -53,7 +53,7 @@ in the way that I usually do. Sleep will fix this.
 
 It was an interesting experience, with a mix of
 
-- A diverse group with one caustic learner
+- A diverse group
 - Problems due to a mismatch between the bigger and my course
 - An unexpected second learning outcome
 - all (?) learners achieving the goal
@@ -62,10 +62,85 @@ I will evaluate in a bit more detail with the course coordinator on Friday.
 
 ## Evaluation results
 
-- A lot of ""I am cool and enthusiastic and flexible and do what you want"" show and a little too little orientation over the course contents / the plan / the to dos -> I found the freedom not engaging but confusing. Please record lectures in the future for 2x option (even though I do understand that the way it is structured now, it does not really make sense to record it, because there is no content to record, but then the label ""lecture"" in the schedule is maybe not the best description of what it is)"
-- It was a good repetition of R theoretical part, Icould work on my own pace. Help was available if needed."
-- I had no previous experience in using R and I feel that in just two morning i managed to learn the very basics with plotting a graph. I feel that there should have been at least a small lecture where the teacher was going throught the very basics (how your data should look like on excel, or how to save your R script for example). I found these two hours fun and this increased my interest in learning how to use R better"
-- I think It would be good at the beginning of the course to make a more clear distinction between the experience people have with Rstudio, to make it less frustrating for the people who have not tried it before and also make better groupings ind the zoom-rooms. This would make it easier for people to get what they need out of the course and also have better discussions with people on the sample level - to generalte ideas for how to display data."
-- I have created some kind of plot, but I had to figure most of it out on my own, with the help of AI... It had been very helpful for a beginner like me to have the introduction to R Monday morning (not Tuesday). It had saved me some anxiety at least. "
-- Richel is a friendly teacher to interact with, which makes the learning much more fun and easy!"
+> A lot of ""I am cool and enthusiastic and flexible and do what you want""
+> show and a little too little orientation over the course
+> contents / the plan / the to dos -> I found the freedom
+> not engaging but confusing.
+> Please record lectures in the future for 2x option
+> (even though I do understand that the way it is structured now,
+> it does not really make sense to record it,
+> because there is no content to record,
+> but then the label ""lecture"" in the schedule is maybe
+> not the best description of what it is)"
+
+I agree that there is a lot of freedom. I think what would help improve
+this is to first offer a structure in general,
+then offer flexibility in breakout rooms for those that need it.
+
+I also agree that the start was not done well and I have already
+improved that.
+
+I agree that 'lecture' would be a misnomer. Taking a look at the schedule,
+there is no mention of the word 'lecture'. Maybe this learner would
+also agree with me that 'course' is a misnomer and that it should be
+called a 'workshop' instead.
+
+> It was a good repetition of R theoretical part,
+> I could work on my own pace. Help was available if needed.
+
+Great!
+
+> I had no previous experience in using R and I feel that in just
+> two morning i managed to learn the very basics with plotting a graph.
+> I feel that there should have been at least a small lecture
+> where the teacher was going throught the very basics
+> (how your data should look like on excel,
+> or how to save your R script for example).
+> I found these two hours fun and this increased
+> my interest in learning how to use R better
+
+I agree with this learner and I think he/she missed the lecture
+on day 2 (that should have been given on day 1), where I did most of these
+suggestions. I enjoy the tip about reading Excel: I've seen
+more people using it. As this is a very diverse group of people,
+it would help those that need it.
+
+- [ ] Add how to read Excel data
+
+> I think It would be good at the beginning of the course to make a more
+> clear distinction between the experience people have with Rstudio,
+> to make it less frustrating for the people who have not tried it before
+> and also make better groupings ind the zoom-rooms.
+> This would make it easier for people to get what they need out of the course
+> and also have better discussions with people on the sample
+> level - to generalte ideas for how to display data.
+
+I agree that it should have been more clear that the course provides for
+learners of all levels. I have already updated this in the course material,
+but maybe I should make this even more explicit, for example,
+by grouping people on experience level.
+
+- [ ] Consider grouping on experience level.
+
+> I have created some kind of plot,
+> but I had to figure most of it out on my own, with the help of AI...
+> It had been very helpful for a beginner like me to have the introduction
+> to R Monday morning (not Tuesday). It had saved me some anxiety at least.
+
+I am happy we agree that I should have done that presentation on day 1.
+It would indeed make life less stressful.
+
+> Richel is a friendly teacher to interact with,
+> which makes the learning much more fun and easy!
+
+Great to hear.
+
+## After going through the evaluation results
+
+I am happy to see how these results point in the same direction as I did
+myself. I had already done most of these suggestions, and I will add
+to my to-do list the items below. A thank-you to the learners!
+
+- [ ] Add how to read Excel data
+- [ ] Consider grouping on experience level.
 
