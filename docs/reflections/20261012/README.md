@@ -35,7 +35,7 @@ I have mixed feelings about how the teaching went.
 
 What I liked is how most learners started exploring and working as
 intended. Some were done early and finished early: that is great,
-so that I can give more time to the beginners. 
+so that I can give more time to the beginners.
 
 Also, I have spoken to all learners and helped them at each level.
 Some learners already have the higher-level questions, such as
@@ -61,7 +61,7 @@ Besides that, all seem to be in good shape, including the beginners.
 I ask, however, about a learner that left a group. I wrote him/her
 a personal message on Slack:
 
-```
+```text
 Hi [name],
 
 I heard you left, because you needed more beginner help.
@@ -73,7 +73,7 @@ We can have a 1-on-1 today or under my workshop time between 9:00-12:00. Would b
 Cheers, Richel
 ```
 
-I shared this with the course coordinator, to both inform and to 
+I shared this with the course coordinator, to both inform and to
 share my unhappiness with this.
 
 I did see this learner was among the six that joined at 10:15,
@@ -92,7 +92,7 @@ This is something that can be fixed:
 
 About the learner again: I was contacted by him/her
 
-```
+```text
 Hi Richel,
 Thank you for reaching out and for the invitation.
 I think I need a bit more time to work on my own and get familiar with the basics at my own pace. For now, I'll continue practicing independently, but I really appreciate your offer of support.
@@ -103,7 +103,7 @@ Cheers,
 
 Where I replied with;
 
-```
+```text
 Great! Looking forward to see your achievements :slightly_smiling_face: !
 
 And I'd be happy to help: there are so stupid questions for me :+1:
@@ -120,7 +120,7 @@ I tried to add what the course coordinator wants:
 
 > See the possibility that R and `ggplot2` offer
 
-However, this does feel weird: why would a 
+However, this does feel weird: why would a
 Scientific Illustration and Data Visualisation course
 want this? I need the course leader's ideas to help me understand.
 
@@ -128,7 +128,7 @@ want this? I need the course leader's ideas to help me understand.
 
 I can already prep this for tomorrow:
 
-- [x] Show some ggplot2 examples, e.g. 
+- [x] Show some ggplot2 examples, e.g.
   - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
   - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 

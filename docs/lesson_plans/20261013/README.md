@@ -12,4 +12,4 @@
 - Present: why R, why ggplot2
 - Send advanced learners to breakout rooms
 - Demo chapter 1
-- 
+-

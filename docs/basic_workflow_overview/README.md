@@ -26,7 +26,7 @@
 
     Non-goals are to go into detail what happens **yet**:
     instead, each step is described in more detail in the next sessions.
-    
+
 ???- question "Prefer a video?"
 
     [View this session as a YouTube video](https://youtu.be/OwymEQTsks8)
@@ -81,7 +81,7 @@ From the context, you understand that:
 
 This data is best saved as a comma-separated (`.csv`) file.
 
-In RStudio, create a new text file: click on 'File | New File | Text File'. 
+In RStudio, create a new text file: click on 'File | New File | Text File'.
 
 ???- question "Where do I need to click?"
 
@@ -217,7 +217,7 @@ To run the code, put your cursor on the first line and press `ctrl` and `Enter`.
 
 You have just run the code `library(readr)`. This allow you to use code
 written by others. In a bit more formal wording:
-you have now activated the `readr` library. 
+you have now activated the `readr` library.
 
 Run the second line too, by pressing `ctrl` and `Enter` again.
 
@@ -327,7 +327,7 @@ What we have just done:
 
 - We set the column names of `t` to `country` and `t` and `n`
 - We set the `country` column to be *categorical*: countries are
-  categorical, in this case, either `India` or `China`. 
+  categorical, in this case, either `India` or `China`.
   The technical term is that a country is a factor.
   Using factors is described in
   [Chapter 16: Factors](https://r4ds.hadley.nz/factors.html)
