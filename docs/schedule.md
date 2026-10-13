@@ -24,6 +24,7 @@ Day|Time        | Topic
 1  |9:00        | [Introduction](introduction/README.md)
 .  |.           | [Install RStudio](install_rstudio/README.md)
 .  |.           | [Basic workflow overview](basic_workflow_overview/README.md)
+.  |.           | Optional demo of [Basic workflow overview](basic_workflow_overview/README.md)
 .  |10:00-10:15 | Break
 .  |.           | [1. Data visualization](1_data_visualization/README.md)
 .  |11:00-11:15 | Break

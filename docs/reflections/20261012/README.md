@@ -29,6 +29,10 @@ is not only to create a plot, but
 also to discover the possibilities of R and `ggplot2`.
 At that time, I said we'll talk about it later.
 
+At 9:10 I found out that all learners had already installed RStudio
+and the `tidyverse` packages. I decided to skip that section
+and I am happy with that decision.
+
 ## After teaching
 
 I have mixed feelings about how the teaching went.
