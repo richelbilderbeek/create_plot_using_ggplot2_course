@@ -75,3 +75,34 @@ Sometimes I will ask for a 'Yes' or 'No' reaction. Here is where you
 can find these in Zoom:
 
 ![A 'Yes' or 'No' reaction](zoom_yes_no.gif)
+
+## Why use R?
+
+![R logo](r_logo_25.png)
+
+- R is a Turning-complete programming language
+- R is **widely used**: it is
+  [among the top 10 most used programming languages](https://www.tiobe.com/tiobe-index/)
+  and probably among the top 2 of programming langauges used in academia
+- R is a **free and open-source** language
+- R works on **all major operating systems**
+- R has **many packages**: a package is a body of code written by others
+  that you can use easily.
+  Currently, there are
+  [around 25,000 general packages](https://cran.r-project.org/web/packages/index.html)
+  and
+  [around 2,000 packages specialized for the life sciences](https://www.bioconductor.org/).
+  Whatever you are looking for, R probably has a package for just that!
+
+## Why use `ggplot2`?
+
+![ggplot2 logo](ggplot2_logo_5.png)
+
+- `ggplot2` is an R package for plotting
+- `ggplot2` is **widely used**: it is among
+  [the top 100 most downloaded R packages](https://r-packages.io/top-packages)
+- `ggplot2` can create publication-ready plots
+
+![[Vaccination heatmap, from the R Graph gallery](https://r-graph-gallery.com/vaccination-heatmap.html)](vaccination_heatmap.png)
+
+## Why use the book 'R for Data Scientists'?
