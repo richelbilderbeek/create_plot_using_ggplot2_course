@@ -65,17 +65,19 @@ Besides that, all seem to be in good shape, including the beginners.
 I ask, however, about a learner that left a group. I wrote him/her
 a personal message on Slack:
 
-```text
-Hi [name],
-
-I heard you left, because you needed more beginner help.
-
-I understand the need and I do this in all breakout rooms. I am unsure how the thought process went, but here again: my workshop is there too for complete beginners. You are not the only one :+1:
-
-We can have a 1-on-1 today or under my workshop time between 9:00-12:00. Would be fun to have you back!
-
-Cheers, Richel
-```
+> Hi [name],
+>
+> I heard you left, because you needed more beginner help.
+>
+> I understand the need and I do this in all breakout rooms.
+> I am unsure how the thought process went, but here again:
+> my workshop is there too for complete beginners.
+> You are not the only one :+1:
+>
+> We can have a 1-on-1 today or under my workshop time between 9:00-12:00.
+> Would be fun to have you back!
+>
+> Cheers, Richel
 
 I shared this with the course coordinator, to both inform and to
 share my unhappiness with this.
@@ -96,22 +98,22 @@ This is something that can be fixed:
 
 About the learner again: I was contacted by him/her
 
-```text
-Hi Richel,
-Thank you for reaching out and for the invitation.
-I think I need a bit more time to work on my own and get familiar with the basics at my own pace. For now, I'll continue practicing independently, but I really appreciate your offer of support.
-If I find that I need additional help or guidance, I'll definitely get back to you.
-Thanks again, and I hope to join one of your sessions in the future.
-Cheers,
-```
+> Hi Richel,
+> Thank you for reaching out and for the invitation.
+> I think I need a bit more time to work on my own
+> and get familiar with the basics at my own pace.
+> For now, I'll continue practicing independently,
+> but I really appreciate your offer of support.
+> If I find that I need additional help or guidance,
+> I'll definitely get back to you.
+> Thanks again, and I hope to join one of your sessions in the future.
+> Cheers,
 
 Where I replied with;
 
-```text
-Great! Looking forward to see your achievements :slightly_smiling_face: !
-
-And I'd be happy to help: there are so stupid questions for me :+1:
-```
+> Great! Looking forward to see your achievements :slightly_smiling_face: !
+>
+> And I'd be happy to help: there are so stupid questions for me :+1:
 
 So, that ended semi-alright, but it would have been better prevented.
 
@@ -133,8 +135,8 @@ want this? I need the course leader's ideas to help me understand.
 I can already prep this for tomorrow:
 
 - [x] Show some ggplot2 examples, e.g.
-  - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
-  - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+    - [Best R chart examples](https://r-graph-gallery.com/best-r-chart-examples)
+    - [ggplot2 extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/)
 
 I have just checked the evaluation results.
 There are non yet.
