@@ -101,10 +101,12 @@ can find these in Zoom:
 - `ggplot2` is an R package for plotting
 - `ggplot2` is **widely used**: it is among
   [the top 100 most downloaded R packages](https://r-packages.io/top-packages)
-- `ggplot2` can create the most commonly used plots, e.g. those
+- `ggplot2` has **the most commonly used plots available**, e.g. those
   [showcased in this gallery](https://r-graph-gallery.com/ggplot2-package.html)
-- `ggplot2` has many extensions to plot even more, e.g. those
+- `ggplot2` has **many extensions** to plot even more, e.g. those
   [showcased in this gallery](https://exts.ggplot2.tidyverse.org/gallery/)
+- `ggplot2` uses a **grammar of graphics**, which allows you to express
+  your plotting needs in code
 - `ggplot2` can create publication-ready plots: you will start recognizing
   them :-)
 
@@ -119,5 +121,3 @@ can find these in Zoom:
 - The book is **free and open access**
 - The book is both **digital and in paper**
 - The book follows **best practices**, e.g. the Tidyverse approach
-
-
