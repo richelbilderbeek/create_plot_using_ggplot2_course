@@ -108,10 +108,16 @@ can find these in Zoom:
 - `ggplot2` can create publication-ready plots: you will start recognizing
   them :-)
 
-[![Vaccination heatmap, from the R Graph gallery](vaccination_heatmap.png)](https://r-graph-gallery.com/vaccination-heatmap.html)
+[![Vaccination heatmap, from the R Graph gallery](vaccination_heatmap_50.png)](https://r-graph-gallery.com/vaccination-heatmap.html)
 
 ## Why use the book 'R for Data Scientists'?
 
-[!['R for Data Scientists' book cover](book_cover.jpg)](https://r4ds.hadley.nz/)
+[!['R for Data Scientists' book cover](book_cover_50.jpg)](https://r4ds.hadley.nz/)
 
-- We use [a free book](https://r4ds.hadley.nz/),
+- [The book 'R for Data Scientists'](https://r4ds.hadley.nz/) is about
+  using R and `ggplot2` to visualize data
+- The book is **free and open access**
+- The book is both **digital and in paper**
+- The book follows **best practices**, e.g. the Tidyverse approach
+
+
