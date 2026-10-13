@@ -83,7 +83,10 @@ improved that.
 I agree that 'lecture' would be a misnomer. Taking a look at the schedule,
 there is no mention of the word 'lecture'. Maybe this learner would
 also agree with me that 'course' is a misnomer and that it should be
-called a 'workshop' instead.
+called a 'workshop' instead. Aha, now I get it: my workshop
+is put in the bigger course's schedule as a lecture!
+
+- [ ] Ask the course coordinator to refer to my sessions as a workshop
 
 > It was a good repetition of R theoretical part,
 > I could work on my own pace. Help was available if needed.
@@ -141,6 +144,7 @@ I am happy to see how these results point in the same direction as I did
 myself. I had already done most of these suggestions, and I will add
 to my to-do list the items below. A thank-you to the learners!
 
+- [ ] Ask the course coordinator to refer to my sessions as a workshop
 - [ ] Add how to read Excel data
 - [ ] Consider grouping on experience level.
 
