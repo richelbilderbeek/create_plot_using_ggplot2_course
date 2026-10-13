@@ -97,7 +97,7 @@ You now have created an empty text file called `Untitled1`.
 
     ![`Untitled1` in RStudio](untitled1_in_rstudio.png)
 
-In this file, paste the data as in the table and use commas as a seperator,
+In this file, paste the data as in the table and use commas as a separator,
 like this.
 
 ```text
@@ -326,7 +326,7 @@ Add this code at the end of the `create_plot.R` script and run it.
 What we have just done:
 
 - We set the column names of `t` to `country` and `t` and `n`
-- We set the `country` column to be *categorial*: countries are
+- We set the `country` column to be *categorical*: countries are
   categorical, in this case, either `India` or `China`. 
   The technical term is that a country is a factor.
   Using factors is described in

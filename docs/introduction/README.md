@@ -83,7 +83,7 @@ can find these in Zoom:
 - R is a Turning-complete programming language
 - R is **widely used**: it is
   [among the top 10 most used programming languages](https://www.tiobe.com/tiobe-index/)
-  and probably among the top 2 of programming langauges used in academia
+  and probably among the top 2 of programming languages used in academia
 - R is a **free and open-source** language
 - R works on **all major operating systems**
 - R has **many packages**: a package is a body of code written by others
