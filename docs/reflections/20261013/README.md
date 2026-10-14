@@ -44,7 +44,7 @@ to fill up a vacant room.
 At around 10:30 around three fourth of the learners were already asking
 questions about how to communicate clearly with a plot. At around 11:30,
 I understood from the last learner that he/she had a plot,
-so my mission has been successfull.
+so my mission has been successful.
 
 ## After teaching
 
