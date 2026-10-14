@@ -10,6 +10,8 @@
 
 - [Raw data](CPUG_course_evaluation.csv)
 
+![Results](results.svg)
+
 6 out of 6 learners have created a plot.
 
 <!-- markdownlint-disable MD013 --><!-- Use a verbatim copy-paste, hence will break 80 characters per line -->
