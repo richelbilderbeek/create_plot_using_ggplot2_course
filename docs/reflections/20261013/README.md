@@ -75,7 +75,10 @@ I will evaluate in a bit more detail with the course coordinator on Friday.
 
 I agree that there is a lot of freedom. I think what would help improve
 this is to first offer a structure in general,
-then offer flexibility in breakout rooms for those that need it.
+then offer flexibility in breakout rooms for those that need it,
+like I do in *all* (?) other courses I teach.
+I love the quote 'I found the freedom not engaging but confusing'
+and I will use it as a reminder to myself.
 
 I also agree that the start was not done well and I have already
 improved that.
