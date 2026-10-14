@@ -9,6 +9,7 @@
 ## Results
 
 - [Raw data](CPUG_course_evaluation.csv)
+- [Code to create the plot](create_plot.R)
 
 ![Results](results.svg)
 
