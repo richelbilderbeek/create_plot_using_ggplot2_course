@@ -8,7 +8,8 @@
 
 ## Before teaching
 
-After teaching on the first day, I added the 'Why is R important?'
+After teaching on the first day, I [reflected](../20261012/README.md).
+Today, due to that, I added the 'Why is R important?'
 and 'Why is `ggplot2` important?', as well as a demo to the schedule.
 It felt like fixing my own teaching. I think it is interesting
 that have missed this important part of a lesson. That I missed this
