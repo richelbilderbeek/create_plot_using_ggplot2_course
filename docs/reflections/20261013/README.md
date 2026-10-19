@@ -150,5 +150,5 @@ to my to-do list the items below. A thank-you to the learners!
 
 - [ ] Ask the course coordinator to refer to my sessions as a workshop
 - [ ] Add how to read Excel data
-- [ ] Consider grouping on experience level.
+- [ ] Consider grouping on experience level
 
