@@ -6,11 +6,17 @@
 - Session: 1
 - Date: 2026-10-12
 
-## Course Evaluation Report: 5642_1 Scientific Illustration and Data Visualisation (HT26)
+## Course Evaluation Report: 5642_1 Scientific Illustration and Data \
+Visualisation (HT26)
 
 ## 1. Survey Overview and Participation Metrics
 
-This document synthesizes and formats the complete course evaluation results for course 5642_1, *Scientific Illustration and Data Visualisation*, delivered during the autumn term 2026 (HT26) at Karolinska Institutet. The evaluation assesses curricular structure, instructional effectiveness, skill development, workload balance, and comparative performance against institutional doctoral course benchmarks.
+This document synthesizes and formats the complete course evaluation results for
+course 5642_1, *Scientific Illustration and Data Visualisation*, delivered
+during the autumn term 2026 (HT26) at Karolinska Institutet. The evaluation
+assesses curricular structure, instructional effectiveness, skill development,
+workload balance, and comparative performance against institutional doctoral
+course benchmarks.
 
 | Survey Metric | Value |
 | :--- | :--- |
@@ -20,19 +26,25 @@ This document synthesizes and formats the complete course evaluation results for
 | **Total Completed Responses** | 14 |
 | **Answer Frequency** | 60.87% |
 
-With an answer frequency of 60.87%, the survey provides a robust sample representing the perspectives of enrolled doctoral candidates.
+With an answer frequency of 60.87%, the survey provides a robust sample
+representing the perspectives of enrolled doctoral candidates.
 
 ---
 
 ## 2. Quantitative Evaluation: Core Course Dimensions
 
-The survey evaluated fifteen core dimensions using a 5-point Likert scale (*To a very small extent*, *To a small extent*, *To some extent*, *To a large extent*, *To a very large extent*), accompanied by descriptive metrics: Mean, Standard Deviation (SD), Coefficient of Variation (CV), Minimum, Quartiles (Lower Quartile / Median / Upper Quartile), and Maximum.
+The survey evaluated fifteen core dimensions using a 5-point Likert scale (*To a
+very small extent*, *To a small extent*, *To some extent*, *To a large extent*,
+*To a very large extent*), accompanied by descriptive metrics: Mean, Standard
+Deviation (SD), Coefficient of Variation (CV), Minimum, Quartiles (Lower
+Quartile / Median / Upper Quartile), and Maximum.
 
 ### 2.1 Syllabus Transparency, Motivation, and Learning Outcomes
 
 #### Question 1: The content of the course was clearly presented in the syllabus
 
-A total of 85.7% of respondents reported that the syllabus presented course content clearly to a large or very large extent.
+A total of 85.7% of respondents reported that the syllabus presented course
+content clearly to a large or very large extent.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -45,14 +57,18 @@ A total of 85.7% of respondents reported that the syllabus presented course cont
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.3 | **Standard Deviation:** 0.9 | **Coefficient of Variation:** 21.3%
-- **Min:** 2.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.3 | **Standard Deviation:** 0.9 | **Coefficient of Variation:**
+  21.3%
+- **Min:** 2.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
 #### Question 2: I was highly motivated to learn the content of the course
 
-Student motivation was uniformly high across participants, with 85.7% indicating strong motivation at the highest levels and no participants reporting small or very small extent.
+Student motivation was uniformly high across participants, with 85.7% indicating
+strong motivation at the highest levels and no participants reporting small or
+very small extent.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -65,14 +81,19 @@ Student motivation was uniformly high across participants, with 85.7% indicating
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.4 | **Standard Deviation:** 0.7 | **Coefficient of Variation:** 17.1%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.4 | **Standard Deviation:** 0.7 | **Coefficient of Variation:**
+  17.1%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 3: The intended learning outcomes of the course were clearly explained
+#### Question 3: The intended learning outcomes of the course were clearly \
+explained
 
-Clarity regarding intended learning outcomes (ILOs) received marked approval, with 64.3% rating clarity at the maximum level and an overall positive agreement of 92.9%.
+Clarity regarding intended learning outcomes (ILOs) received marked approval,
+with 64.3% rating clarity at the maximum level and an overall positive agreement
+of 92.9%.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -85,16 +106,20 @@ Clarity regarding intended learning outcomes (ILOs) received marked approval, wi
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.6 | **Standard Deviation:** 0.6 | **Coefficient of Variation:** 14.1%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.6 | **Standard Deviation:** 0.6 | **Coefficient of Variation:**
+  14.1%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
 ### 2.2 Course Architecture, Learning Activities, and Pedagogical Feedback
 
-#### Question 4: The course design facilitated achievement of the intended learning outcomes
+#### Question 4: The course design facilitated achievement of the intended \
+learning outcomes
 
-The pedagogical design was endorsed by 92.9% of students to a large (50.0%) or very large extent (42.9%).
+The pedagogical design was endorsed by 92.9% of students to a large (50.0%) or
+very large extent (42.9%).
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -107,14 +132,18 @@ The pedagogical design was endorsed by 92.9% of students to a large (50.0%) or v
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:** 14.5%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:**
+  14.5%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 5: The teaching and learning activities facilitated achievement of the intended learning outcomes
+#### Question 5: The teaching and learning activities facilitated achievement \
+of the intended learning outcomes
 
-Course exercises, practical sessions, and instructional activities supported learning objectives effectively according to 92.9% of students.
+Course exercises, practical sessions, and instructional activities supported
+learning objectives effectively according to 92.9% of students.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -127,14 +156,18 @@ Course exercises, practical sessions, and instructional activities supported lea
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:** 14.6%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:**
+  14.6%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 6: During the course, I have received sufficient feedback from the teachers and/or the other course participants, when needed
+#### Question 6: During the course, I have received sufficient feedback from \
+the teachers and/or the other course participants, when needed
 
-Feedback mechanisms received an exceptionally high endorsement, with 57.1% of students rating feedback at the highest level and 35.7% to a large extent.
+Feedback mechanisms received an exceptionally high endorsement, with 57.1% of
+students rating feedback at the highest level and 35.7% to a large extent.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -147,16 +180,20 @@ Feedback mechanisms received an exceptionally high endorsement, with 57.1% of st
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.5 | **Standard Deviation:** 0.7 | **Coefficient of Variation:** 14.5%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.5 | **Standard Deviation:** 0.7 | **Coefficient of Variation:**
+  14.5%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-### 2.3 Student Engagement, Prior Knowledge Heterogeneity, and Faculty Responsiveness
+### 2.3 Student Engagement, Prior Knowledge Heterogeneity, and Faculty \
+Responsiveness
 
 #### Question 7: I have actively engaged in the course
 
-All respondents (100.0%) reported active participation, divided evenly between large extent (50.0%) and very large extent (50.0%).
+All respondents (100.0%) reported active participation, divided evenly between
+large extent (50.0%) and very large extent (50.0%).
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -169,14 +206,19 @@ All respondents (100.0%) reported active participation, divided evenly between l
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.5 | **Standard Deviation:** 0.5 | **Coefficient of Variation:** 11.5%
-- **Min:** 4.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.5 | **Standard Deviation:** 0.5 | **Coefficient of Variation:**
+  11.5%
+- **Min:** 4.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 8: I had sufficient prior knowledge to fully participate in the course
+#### Question 8: I had sufficient prior knowledge to fully participate in the \
+course
 
-Prior knowledge displayed the widest variance in the evaluation, with 21.4% indicating insufficient background preparation (small or very small extent) and a coefficient of variation of 34.2%.
+Prior knowledge displayed the widest variance in the evaluation, with 21.4%
+indicating insufficient background preparation (small or very small extent) and
+a coefficient of variation of 34.2%.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -189,14 +231,18 @@ Prior knowledge displayed the widest variance in the evaluation, with 21.4% indi
 
 *Descriptive Statistics:*
 
-- **Mean:** 3.6 | **Standard Deviation:** 1.2 | **Coefficient of Variation:** 34.2%
-- **Min:** 1.0 | **Lower Quartile:** 3.0 | **Median:** 4.0 | **Upper Quartile:** 4.0 | **Max:** 5.0
+- **Mean:** 3.6 | **Standard Deviation:** 1.2 | **Coefficient of Variation:**
+  34.2%
+- **Min:** 1.0 | **Lower Quartile:** 3.0 | **Median:** 4.0 | **Upper Quartile:**
+  4.0 | **Max:** 5.0
 
 ---
 
-#### Question 9: During the course, the teachers have been open to students' ideas and opinions about the course
+#### Question 9: During the course, the teachers have been open to students' \
+ideas and opinions about the course
 
-Faculty receptivity to student feedback and dialogue was positively assessed by 85.8% of respondents.
+Faculty receptivity to student feedback and dialogue was positively assessed by
+85.8% of respondents.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -209,8 +255,10 @@ Faculty receptivity to student feedback and dialogue was positively assessed by 
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.3 | **Standard Deviation:** 0.7 | **Coefficient of Variation:** 16.9%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.3 | **Standard Deviation:** 0.7 | **Coefficient of Variation:**
+  16.9%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
@@ -218,7 +266,8 @@ Faculty receptivity to student feedback and dialogue was positively assessed by 
 
 #### Question 10: During the course, I have developed valuable expertise/skills
 
-Thirteen participants responded to this item, with 100.0% confirming valuable skill acquisition (53.8% very large extent, 46.2% large extent).
+Thirteen participants responded to this item, with 100.0% confirming valuable
+skill acquisition (53.8% very large extent, 46.2% large extent).
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -231,14 +280,20 @@ Thirteen participants responded to this item, with 100.0% confirming valuable sk
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.5 | **Standard Deviation:** 0.5 | **Coefficient of Variation:** 11.4%
-- **Min:** 4.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.5 | **Standard Deviation:** 0.5 | **Coefficient of Variation:**
+  11.4%
+- **Min:** 4.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 11: During the course, I have developed my ability to critically analyse and evaluate research findings
+#### Question 11: During the course, I have developed my ability to critically \
+analyse and evaluate research findings
 
-A majority of respondents (53.8%, n=7) designated this item as *Not applicable*, reflecting the primary focus on visual communication and software proficiency rather than research critique. Among the remaining respondents (n=6), responses were favorable.
+A majority of respondents (53.8%, n=7) designated this item as *Not applicable*,
+reflecting the primary focus on visual communication and software proficiency
+rather than research critique. Among the remaining respondents (n=6), responses
+were favorable.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -252,14 +307,19 @@ A majority of respondents (53.8%, n=7) designated this item as *Not applicable*,
 
 *Descriptive Statistics (Evaluated Responses Only):*
 
-- **Mean:** 4.3 | **Standard Deviation:** 0.8 | **Coefficient of Variation:** 18.8%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.3 | **Standard Deviation:** 0.8 | **Coefficient of Variation:**
+  18.8%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.5 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 12: The examination adequately assessed the achievement of the intended learning outcomes
+#### Question 12: The examination adequately assessed the achievement of the \
+intended learning outcomes
 
-The examination framework received unanimous endorsement across participants, with 100.0% rating alignment at the highest scale levels (57.1% very large extent, 42.9% large extent).
+The examination framework received unanimous endorsement across participants,
+with 100.0% rating alignment at the highest scale levels (57.1% very large
+extent, 42.9% large extent).
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -272,8 +332,10 @@ The examination framework received unanimous endorsement across participants, wi
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.6 | **Standard Deviation:** 0.5 | **Coefficient of Variation:** 11.2%
-- **Min:** 4.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.6 | **Standard Deviation:** 0.5 | **Coefficient of Variation:**
+  11.2%
+- **Min:** 4.0 | **Lower Quartile:** 4.0 | **Median:** 5.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
@@ -281,7 +343,8 @@ The examination framework received unanimous endorsement across participants, wi
 
 #### Question 13: I have achieved the intended learning outcomes of the course
 
-Reflecting the assessment results, 92.9% of students indicated successful ILO attainment.
+Reflecting the assessment results, 92.9% of students indicated successful ILO
+attainment.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -294,14 +357,18 @@ Reflecting the assessment results, 92.9% of students indicated successful ILO at
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:** 14.5%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:**
+  14.5%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
-#### Question 14: From my perspective the workload was reasonable in relation to the number of credits
+#### Question 14: From my perspective the workload was reasonable in relation \
+to the number of credits
 
-Workload was assessed as proportionate by 78.6% of students, while 21.4% felt proportionality was achieved only to some extent.
+Workload was assessed as proportionate by 78.6% of students, while 21.4% felt
+proportionality was achieved only to some extent.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -314,14 +381,18 @@ Workload was assessed as proportionate by 78.6% of students, while 21.4% felt pr
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.1 | **Standard Deviation:** 0.7 | **Coefficient of Variation:** 17.9%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:** 4.5 | **Max:** 5.0
+- **Mean:** 4.1 | **Standard Deviation:** 0.7 | **Coefficient of Variation:**
+  17.9%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:**
+  4.5 | **Max:** 5.0
 
 ---
 
-#### Question 15: This course has fulfilled my expectations of a high quality course
+#### Question 15: This course has fulfilled my expectations of a high quality \
+course
 
-Course quality expectations were fulfilled for 92.9% of students to a large (50.0%) or very large extent (42.9%).
+Course quality expectations were fulfilled for 92.9% of students to a large
+(50.0%) or very large extent (42.9%).
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -334,16 +405,21 @@ Course quality expectations were fulfilled for 92.9% of students to a large (50.
 
 *Descriptive Statistics:*
 
-- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:** 14.5%
-- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:** 5.0 | **Max:** 5.0
+- **Mean:** 4.4 | **Standard Deviation:** 0.6 | **Coefficient of Variation:**
+  14.5%
+- **Min:** 3.0 | **Lower Quartile:** 4.0 | **Median:** 4.0 | **Upper Quartile:**
+  5.0 | **Max:** 5.0
 
 ---
 
 ## 3. Doctoral Student Recommendation Rate
 
-#### Question 18: Would you recommend this course to others enrolled in doctoral education?
+#### Question 18: Would you recommend this course to others enrolled in \
+doctoral education?
 
-Student endorsement was unanimous: 100.0% of doctoral candidates (14 of 14) recommended the course to peers, with no negative responses or non-applicable designations.
+Student endorsement was unanimous: 100.0% of doctoral candidates (14 of 14)
+recommended the course to peers, with no negative responses or non-applicable
+designations.
 
 | Response Scale | Number of Responses | Percentage |
 | :--- | :--- | :--- |
@@ -354,14 +430,19 @@ Student endorsement was unanimous: 100.0% of doctoral candidates (14 of 14) reco
 
 *Descriptive Statistics:*
 
-- **Mean:** 1.0 | **Standard Deviation:** 0.0 | **Coefficient of Variation:** 0.0%
-- **Min:** 1.0 | **Lower Quartile:** 1.0 | **Median:** 1.0 | **Upper Quartile:** 1.0 | **Max:** 1.0
+- **Mean:** 1.0 | **Standard Deviation:** 0.0 | **Coefficient of Variation:**
+  0.0%
+- **Min:** 1.0 | **Lower Quartile:** 1.0 | **Median:** 1.0 | **Upper Quartile:**
+  1.0 | **Max:** 1.0
 
 ---
 
-## 4. Benchmark Comparison with Karolinska Institutet Doctoral Courses (2025 Aggregated)
+## 4. Benchmark Comparison with Karolinska Institutet Doctoral Courses (2025 \
+Aggregated)
 
-The performance of course 5642_1 is evaluated against the aggregated benchmark comprising all doctoral education courses evaluated across Karolinska Institutet during calendar year 2025.
+The performance of course 5642_1 is evaluated against the aggregated benchmark
+comprising all doctoral education courses evaluated across Karolinska Institutet
+during calendar year 2025.
 
 ### Comprehensive Benchmark Matrix
 
@@ -383,45 +464,96 @@ The performance of course 5642_1 is evaluated against the aggregated benchmark c
 | **Q14 Workload** | 4.07 | 4.14 | -0.07 | 4.00 | 4.00 | 4.00 | 4.00 | 4.50 | 5.00 |
 | **Q15 Fulfilled expectations** | 4.36 | 4.28 | **+0.08** | 4.00 | 5.00 | 4.00 | 4.00 | 5.00 | 5.00 |
 
-
 ---
 
 ## 5. Qualitative Feedback: Identified Areas of Excellence
 
-In Question 16 (*"Were there any parts of the course that were excellent? If so, please specify which parts and in what way."*), participants provided detailed praise regarding pedagogical structure, applied project work, feedback loops, and instructional delivery.
+In Question 16 (*"Were there any parts of the course that were excellent? If so,
+please specify which parts and in what way."*), participants provided detailed
+praise regarding pedagogical structure, applied project work, feedback loops,
+and instructional delivery.
 
 ### Verbatim Student Submissions
 
-- *"I really like the part that there's an the time slot to freely work on our own project and get feedback from it. Also the part where examples of good illustrations were used to explain the concept and process of design."*
+- *"I really like the part that there's an the time slot to freely work on our
+  own project and get feedback from it. Also the part where examples of good
+  illustrations were used to explain the concept and process of design."*
 - *"Great course and competent teachers."*
-- *"Having a journal was very useful to follow up the progress one has made during the course."*
-- *"The possibility to receive feedback, make improvements, and receive feedback again was also very appreciated."*
-- *"Hands-on training on the design softwares was very high quality and easy to follow. In general the first week of classes was all top notch. Overall the best course I took during my whole PhD!"*
-- *"I think having the journal to stay accountable and on top of assignments was good. All of Meike's lectures were super informative and useful."*
+- *"Having a journal was very useful to follow up the progress one has made
+  during the course."*
+- *"The possibility to receive feedback, make improvements, and receive feedback
+  again was also very appreciated."*
+- *"Hands-on training on the design softwares was very high quality and easy to
+  follow. In general the first week of classes was all top notch. Overall the
+  best course I took during my whole PhD!"*
+- *"I think having the journal to stay accountable and on top of assignments was
+  good. All of Meike's lectures were super informative and useful."*
 - *"Friendly environment and very interesting lectures."*
 - *"Learning how to make graphic abstract using affinity"*
-- *"Meike Latz's parts were well thought through, utilized great methodological diversity matching the each topic, very well strctured. Engaging. Flexible. One of the best online courses I had in a long time."*
-- *"Overall i really enjoyed this course! I loved the freedom to do figures and the time to also work on it by my self by still be able to seek help if needed. And really beneficial to get feedback from other people not in my field, to see where the figures might have been to complicated or to confusing."*
-- *"This was among the best courses that I have participated in. Very clear structure, great teacher, very interactive and I learned a lot. The lectures were well structured and provided a lot of opportunity to be implemented in my later career (even if its not academia). I would recommend this as a mandatory course for every PhD Student."*
+- *"Meike Latz's parts were well thought through, utilized great methodological
+  diversity matching the each topic, very well strctured. Engaging. Flexible.
+  One of the best online courses I had in a long time."*
+- *"Overall i really enjoyed this course! I loved the freedom to do figures and
+  the time to also work on it by my self by still be able to seek help if
+  needed. And really beneficial to get feedback from other people not in my
+  field, to see where the figures might have been to complicated or to
+  confusing."*
+- *"This was among the best courses that I have participated in. Very clear
+  structure, great teacher, very interactive and I learned a lot. The lectures
+  were well structured and provided a lot of opportunity to be implemented in my
+  later career (even if its not academia). I would recommend this as a mandatory
+  course for every PhD Student."*
 
 ---
 
-## 6. Qualitative Feedback: Constructive Critiques and Pedagogical Recommendations
+## 6. Qualitative Feedback: Constructive Critiques and Pedagogical \
+Recommendations
 
-In Question 17 (*"Do you have any recommendations as to how the course could be improved? If so, please specify which parts and how."*), students submitted targeted suggestions concerning prerequisite communication, R/RStudio instruction, workload allocation, and delivery modality.
+In Question 17 (*"Do you have any recommendations as to how the course could be
+improved? If so, please specify which parts and how."*), students submitted
+targeted suggestions concerning prerequisite communication, R/RStudio
+instruction, workload allocation, and delivery modality.
 
 ### Verbatim Student Submissions
 
-- *"Not really, keep it as it is. This was the first KI course I recommend to other PhD students."*
-- *"I think it would be great if during week to the students were devided into groups of who have experience with Rstudio and who do not have. Because as somebody with experience I used a lot of time on helping with the basics and I think that because I was not prepared for this I did not know how to do it properly - to lessen the students in my groups frustation of learning a completly new program. So I could have used my time better by talking and developing ideas for my data visulization if I had been in a group where people have experience and the one i 'helped' could have learned it better if they had gotten a structred teaching on Rstudio."*
-- *"The R session was very confusing and disorienting. Working with a book does not need to happen in breakout rooms. Very irritating teaching style in terms of the way we were spoken to, in my opinion."*
-- *"I personally find that the homework needs more than the planned time, especially to get use to a new software. It could have been a bit more credit hours."*
-- *"Richel Bilderbeek was not the perfect teacher for a total beginner in R! I would have wanted some introduction and some tips and tricks how to at least get started. (He did not teach med R, AI did.)"*
-- *"The description could be a little bit more clear. I misinterpreted it somewhat. Quite overwhelming for someone who has never worked with vector programs or R before."*
-- *"It might be better to have the possibility to have education IRL during the practical sessions. Difficult to get help online."*
+- *"Not really, keep it as it is. This was the first KI course I recommend to
+  other PhD students."*
+- *"I think it would be great if during week to the students were devided into
+  groups of who have experience with Rstudio and who do not have. Because as
+  somebody with experience I used a lot of time on helping with the basics and I
+  think that because I was not prepared for this I did not know how to do it
+  properly - to lessen the students in my groups frustation of learning a
+  completly new program. So I could have used my time better by talking and
+  developing ideas for my data visulization if I had been in a group where
+  people have experience and the one i 'helped' could have learned it better if
+  they had gotten a structred teaching on Rstudio."*
+- *"The R session was very confusing and disorienting. Working with a book does
+  not need to happen in breakout rooms. Very irritating teaching style in terms
+  of the way we were spoken to, in my opinion."*
+- *"I personally find that the homework needs more than the planned time,
+  especially to get use to a new software. It could have been a bit more credit
+  hours."*
+- *"Richel Bilderbeek was not the perfect teacher for a total beginner in R! I
+  would have wanted some introduction and some tips and tricks how to at least
+  get started. (He did not teach med R, AI did.)"*
+- *"The description could be a little bit more clear. I misinterpreted it
+  somewhat. Quite overwhelming for someone who has never worked with vector
+  programs or R before."*
+- *"It might be better to have the possibility to have education IRL during the
+  practical sessions. Difficult to get help online."*
 - *"They should allow the use of elements from Biolender"*
-- *"The DataVis practice on the Wednesday of the 2nd week felt very repetitive, especially the group parts in breakout rooms, after we had talked a lot about data visualisation. Maybe it should be earlier in the course. I also didn't find the lectures on Thursday very useful, there wasn't much tangible information in there, more like 'hey be aware those things exist and look into them'."*
-- *"I also would suggest making people plot the same data for the 2 data visualisations, it makes it more interesting to compare how to communicate in scientific publications and to a general audience."*
-- *"Even though graphical design skill were not required, it would be good to mention it in the syllabus. It was a bit stressful in the beginning."*
-- *"Maybe the R software part could be a bit more redesigned / flexible to include multiple softwares for those who are not using R frequently."*
-- *"Would be nice to add a section on which graphs / visuals can work better to convey the message and impacts for different types of data."*
+- *"The DataVis practice on the Wednesday of the 2nd week felt very repetitive,
+  especially the group parts in breakout rooms, after we had talked a lot about
+  data visualisation. Maybe it should be earlier in the course. I also didn't
+  find the lectures on Thursday very useful, there wasn't much tangible
+  information in there, more like 'hey be aware those things exist and look into
+  them'."*
+- *"I also would suggest making people plot the same data for the 2 data
+  visualisations, it makes it more interesting to compare how to communicate in
+  scientific publications and to a general audience."*
+- *"Even though graphical design skill were not required, it would be good to
+  mention it in the syllabus. It was a bit stressful in the beginning."*
+- *"Maybe the R software part could be a bit more redesigned / flexible to
+  include multiple softwares for those who are not using R frequently."*
+- *"Would be nice to add a section on which graphs / visuals can work better to
+  convey the message and impacts for different types of data."*
