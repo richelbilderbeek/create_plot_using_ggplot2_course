@@ -407,6 +407,19 @@ and/or use an AI.
 
 ## Exercises
 
+## Exercise 0: indicate your R skills
+
+Some learners already know R and RStudio quite a bit.
+
+Indicate your level in your Zoom username:
+
+Level|Description
+-----|---------------------------------------------
+A    |I can write R code comfortably
+B    |I can get (mostly copy-pasted) R code to work
+C    |I have never gotten R code to run
+
+
 ## Exercise 1
 
 Do the steps of [the 'A typical project visualization' section](#a-typical-project-visualization)
