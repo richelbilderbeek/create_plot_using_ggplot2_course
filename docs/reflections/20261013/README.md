@@ -252,7 +252,14 @@ will fix this.
   I would have wanted some introduction and some tips and tricks
   how to at least get started. (He did not teach med R, AI did.)
 
-Yes, I agree that a demo should have been on the first day. This has
+I agree I am not the perfect teacher, as there is no such thing as a
+perfect teacher. I am happy to read I have been successful in
+creating a learning environment where he/she used AI to learn:
+this is -no pun intended- perfect: we have some initial evidence
+that AI tutors seem to be more effective at teaching than
+humans `[Kestin et al., 2025]`!
+I think that there should have been
+a demo on the first day and this has
 already been updated in the course schedule.
 
 - The description could be a little bit more clear.
@@ -292,3 +299,11 @@ A    |I can write R code comfortably
 B    |I can get (mostly copy-pasted) R code to work
 C    |I have never gotten R code to run
 
+## References
+
+- `[Kestin et al., 2025]`
+  Kestin, G., Miller, K., Klales, A. et al.
+  AI tutoring outperforms in-class active learning:
+  an RCT introducing a novel research-based design in an authentic
+  educational setting. Sci Rep 15, 17458 (2025).
+  <https://doi.org/10.1038/s41598-025-97652-6>
