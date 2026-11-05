@@ -227,7 +227,9 @@ see (and saw here too) that some learners start teaching. And I feel
 this is a good thing: the learners have some freedom on how to engage
 with each other and I should be generous on how they should do so.
 However, what happened here is not what I wanted; that a learner
-started taking over teaching.
+started taking over teaching. I do usually spot this, when I can
+navigate the breakout rooms more often. I predict I will be 
+able to circle around more often if I do day 1 properly.
 
 What I do know, is that the plan to differentiate between learners has already
 been accepted. I hope that that will resolve this issue.

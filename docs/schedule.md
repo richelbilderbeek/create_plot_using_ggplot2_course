@@ -21,7 +21,8 @@ tags:
 
 Day|Time        | Topic
 ---|------------|-----------------------------------------------------------------
-1  |9:00        | [Introduction](introduction/README.md)
+1  |9:00        | [Who is Richèl](https://richelbilderbeek.github.io/teaching/who_is_richel/)
+.  |.           | [Introduction](introduction/README.md)
 .  |.           | [Install RStudio](install_rstudio/README.md)
 .  |.           | [Basic workflow overview](basic_workflow_overview/README.md)
 .  |.           | Optional demo of [Basic workflow overview](basic_workflow_overview/README.md)
