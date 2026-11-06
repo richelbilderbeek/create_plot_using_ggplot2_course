@@ -3,14 +3,14 @@
 !!! note "The goal of Scientific Illustration and Data Visualisation course"
 
     To provide tools that help the learners solve future visualisation
-    problems that they may encounter during their PhD
+    problems that they may encounter during their PhD.
 
-!!! note "The goals of this workshop"
+!!! note "The goal of this workshop"
 
-    - Demonstrate the usefulness of R and `ggplot2`
-      as a useful visualisation tool
-    - Create a plot needed for the
-      Scientific Illustration and Data Visualisation course
+    The goal of this course is to create a plot using ggplot2.
+
+    This plot is needed for the
+    Scientific Illustration and Data Visualisation course.
 
 Non-goals:
 

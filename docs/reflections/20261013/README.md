@@ -290,6 +290,27 @@ Yes, we will divide the beginners into groups.
 - Would be nice to add a section on which graphs / visuals can work better
   to convey the message and impacts for different types of data.
 
+## Contact with course coordinator
+
+!!! quote "From course coordinator"
+
+    I talked to [...] about your thought if R is really needed in this course.
+    We agreed that that is a discussion that would be good to have.
+    An idea could be (as you had initially framed it) that the R part
+    is optional to those who feel they want to learn it.
+
+!!! quote "From me"
+
+    I would be up for that. This would make the learning outcome again:
+
+    > The goal of this course is to create a plot using ggplot2
+
+    Would you agree to that?
+
+!!! quote "From course coordinator"
+
+    Yes! I agree that is the learning outcome then.
+
 ## Reflection
 
 - [ ] Add how to read Excel data
