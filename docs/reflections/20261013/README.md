@@ -159,7 +159,7 @@ to my to-do list the items below. A thank-you to the learners!
 
 ## Course evaluation results
 
-### Verbatim Student Submissions
+### 5. Verbatim Student Submissions
 
 - I really like the part that there's an the time slot to freely work on our
   own project and get feedback from it.
@@ -191,7 +191,7 @@ to my to-do list the items below. A thank-you to the learners!
   implemented in my later career (even if its not academia).
   I would recommend this as a mandatory course for every PhD Student.
 
-### Verbatim Student Submissions
+### 6. Verbatim Student Submissions
 
 There are some responses that are quite negative against me.
 I am fine with that: I am happy that the learners speak their thoughts.
@@ -228,7 +228,7 @@ this is a good thing: the learners have some freedom on how to engage
 with each other and I should be generous on how they should do so.
 However, what happened here is not what I wanted; that a learner
 started taking over teaching. I do usually spot this, when I can
-navigate the breakout rooms more often. I predict I will be 
+navigate the breakout rooms more often. I predict I will be
 able to circle around more often if I do day 1 properly.
 
 What I do know, is that the plan to differentiate between learners has already
@@ -311,7 +311,7 @@ Yes, we will divide the beginners into groups.
 
     Yes! I agree that is the learning outcome then.
 
-## Reflection
+## Final reflection
 
 - [ ] Add how to read Excel data
 - [ ] Group the learners on experience level, e.g.
