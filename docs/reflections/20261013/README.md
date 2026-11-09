@@ -178,7 +178,7 @@ to my to-do list the items below. A thank-you to the learners!
 - Friendly environment and very interesting lectures.
 - Learning how to make graphic abstract using affinity
 - Meike Latz's parts were well thought through, utilized great methodological
-  diversity matching the each topic, very well strctured. Engaging. Flexible.
+  diversity matching the each topic, very well structured. Engaging. Flexible.
   One of the best online courses I had in a long time.
 - Overall i really enjoyed this course! I loved the freedom to do figures and
   the time to also work on it by my self by still be able to seek help if
@@ -207,7 +207,7 @@ part of the course.
 
 - Not really, keep it as it is.
   This was the first KI course I recommend to other PhD students.
-- I think it would be great if during week to the students were devided
+- I think it would be great if during week to the students were divided
   into groups of who have experience with Rstudio and who do not have.
 
 Great idea! Me and the course leader already agreed to do so too :-)
@@ -215,11 +215,11 @@ Great idea! Me and the course leader already agreed to do so too :-)
 - Because as somebody with experience I used a lot of time on helping
   with the basics and I think that because I was not prepared for this
   I did not know how to do it properly - to lessen the students
-  in my groups frustation of learning a completly new program.
+  in my groups frustration of learning a completly new program.
   So I could have used my time better by talking and developing ideas
-  for my data visulization if I had been in a group where people have
+  for my data visualization if I had been in a group where people have
   experience and the one i 'helped' could have learned
-  it better if they had gotten a structred teaching on Rstudio.
+  it better if they had gotten a structured teaching on Rstudio.
 
 I wish I understood better what happened here. I never ask my learners
 to take over teaching. I do ask them to help each other. I do
