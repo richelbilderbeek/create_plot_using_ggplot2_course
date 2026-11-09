@@ -8,7 +8,7 @@ tags:
 This is the page for evaluating the current iteration of the course.
 
 Thanks for your time to fill in
-[the course evaluation form](...)
+[TODO: the course evaluation form](https://github.com/richelbilderbeek/create_plot_using_ggplot2_course/issues/1)
 
 ???- question "For teachers: what is in the course evaluation form?"
 
