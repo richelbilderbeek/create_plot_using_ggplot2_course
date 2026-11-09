@@ -113,9 +113,7 @@ very small extent.
 
 ---
 
-#### Question 3: The intended learning outcomes of the course were clearly \
-
-explained
+#### Question 3: The intended learning outcomes of the course were clearly explained
 
 Clarity regarding intended learning outcomes (ILOs) received marked approval,
 with 64.3% rating clarity at the maximum level and an overall positive agreement
@@ -529,7 +527,7 @@ and instructional delivery.
 - *"Friendly environment and very interesting lectures."*
 - *"Learning how to make graphic abstract using affinity"*
 - *"Meike Latz's parts were well thought through, utilized great methodological
-  diversity matching the each topic, very well strctured. Engaging. Flexible.
+  diversity matching the each topic, very well structured. Engaging. Flexible.
   One of the best online courses I had in a long time."*
 - *"Overall i really enjoyed this course! I loved the freedom to do figures and
   the time to also work on it by my self by still be able to seek help if
@@ -557,15 +555,15 @@ instruction, workload allocation, and delivery modality.
 
 - *"Not really, keep it as it is. This was the first KI course I recommend to
   other PhD students."*
-- *"I think it would be great if during week to the students were devided into
+- *"I think it would be great if during week to the students were divided into
   groups of who have experience with Rstudio and who do not have. Because as
   somebody with experience I used a lot of time on helping with the basics and I
   think that because I was not prepared for this I did not know how to do it
-  properly - to lessen the students in my groups frustation of learning a
+  properly - to lessen the students in my groups frustration of learning a
   completly new program. So I could have used my time better by talking and
-  developing ideas for my data visulization if I had been in a group where
+  developing ideas for my data visualization if I had been in a group where
   people have experience and the one i 'helped' could have learned it better if
-  they had gotten a structred teaching on Rstudio."*
+  they had gotten a structured teaching on Rstudio."*
 - *"The R session was very confusing and disorienting. Working with a book does
   not need to happen in breakout rooms. Very irritating teaching style in terms
   of the way we were spoken to, in my opinion."*

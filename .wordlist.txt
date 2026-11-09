@@ -1,3 +1,7 @@
+Kestin
+Klales
+RCT
+doi
 Biolender
 completly
 DataVis
@@ -13,6 +17,7 @@ Rstudio
 softwares
 visualisations
 Richèl
+TODO
 tunable
 DOI
 De
